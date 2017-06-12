@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="SSR Bomberos CL">
+  <meta name="author" content="Jorge Epuñan">
+  <title></title>
+  <link rel="stylesheet" type="text/css" href="./dist/css/build.min.css" />
+
+  </head>
+
+  <body>
+    <div id="app" m-mask>
+      <h1>{{ name }}</h1>
+      <select>
+        <option m-for="bomba in bomberos">
+          <p>{{ bomba.name }}</p>
+          <p>{{ bomba.address }}</p>
+          <p>{{ bomba.phone }}</p>
+          <p>{{ bomba.city }}</p>
+        </option>
+      </select>
+      <div id="mapa"></div>
+    </div>
+    
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCPZjPKs0Dr1Po04gzRjOEt72u-7P_ERD4"></script>
+    <!--script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script-->
+    <script src="./dist/js/build.min.js"></script>
+  
+  </body>
+
+</html>
