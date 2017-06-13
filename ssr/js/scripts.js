@@ -15,13 +15,11 @@ var app = new Moon({
     errors: []
   },
   methods: {
-    createMap() {}
   },
   hooks: {
     mounted: function() {
       // get data
-      axios.get(api)
-        .then(response => {
+      axios.get(api).then(function (response) {
 
           var that = this;
           that.set("bomberos", response.data);
@@ -41,7 +39,7 @@ var app = new Moon({
 
           google.maps.event.addListener(map, 'click', function() {
             infowindow.close();
-          }); 
+          });
 
           bomba.map(function(value, index){
 
@@ -64,9 +62,8 @@ var app = new Moon({
 
           });
 
-      })
-        .catch(e => {
-          this.set('errors', e);
+      }).catch(function (e) {
+        this.set('errors', e);
       });
 
     }
