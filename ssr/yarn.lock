@@ -917,7 +917,7 @@ expand-range@^1.8.1:
   dependencies:
     fill-range "^2.1.0"
 
-express@^4.13.3:
+express@^4.13.3, express@^4.15.3:
   version "4.15.3"
   resolved "https://registry.yarnpkg.com/express/-/express-4.15.3.tgz#bab65d0f03aa80c358408972fc700f916944b662"
   dependencies:
@@ -1675,6 +1675,12 @@ moon-component-compiler@0.0.2:
   dependencies:
     himalaya "^0.2.8"
 
+moon-ssr@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/moon-ssr/-/moon-ssr-0.0.3.tgz#e9637c2859f6fa02f05eccdf09a7d606ad2f11a2"
+  dependencies:
+    moonjs latest
+
 moonify@0.0.14:
   version "0.0.14"
   resolved "https://registry.yarnpkg.com/moonify/-/moonify-0.0.14.tgz#855196ecc0af36e6cb4a12eea64c597cd421052b"
@@ -1682,7 +1688,7 @@ moonify@0.0.14:
     moon-component-compiler "0.0.2"
     through2 "^2.0.3"
 
-moonjs@0.10.0:
+moonjs@0.10.0, moonjs@latest:
   version "0.10.0"
   resolved "https://registry.yarnpkg.com/moonjs/-/moonjs-0.10.0.tgz#25fe5475b8a5b98c7d83b1bb74639fc23d4893d8"
 
