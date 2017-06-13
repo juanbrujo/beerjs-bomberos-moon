@@ -37,7 +37,7 @@ var app = new Moon({
           var mapOptions = {
             zoom: 4,
             center: new google.maps.LatLng(-34.977985, -71.25288),
-            mapTypeId: google.maps.MapTypeId.ROADMAP
+            mapTypeId: google.maps.MapTypeId.ROADMAP,
           }
 
           var map = new google.maps.Map(document.getElementById("mapa"), mapOptions);
@@ -45,21 +45,31 @@ var app = new Moon({
           var infowindow = new google.maps.InfoWindow();
           var marker,
               i,
-              cantBomberos = that.get('bomberos').length
               bomba = that.get('bomberos');
-
-    console.log("cantBomberos: " + cantBomberos);
+          //var infowindow = new google.maps.InfoWindow({
+          //  content: '<div id="content">'+
+          //      '<h1 id="firstHeading" class="firstHeading">' + value.name + '</h1>'+
+          //      '<div id="bodyContent"><p>Curicó, Chile. Región del Maule.</p></div>'+
+          //      '</div>'
+          //});
 
           bomba.map(function(value, index){
-            //console.log(value)
+            // console.log(value)
+
             marker = new google.maps.Marker({
               position: new google.maps.LatLng(value.latitude, value.longitud),
-              map: map
+              map: map,
+              animation: google.maps.Animation.DROP
             });
 
             google.maps.event.addListener(marker, 'click', (function(marker, i) {
               return function() {
-                infowindow.setContent(value.name +  '\n' + value.address +  '\n' + value.phone  +  '\n' + value.city);
+                infowindow.setContent('<div id="balloon">'+
+                '<p><b>' + value.name + '</b></p>'+
+                '<p>Dirección: ' + value.address + '</p>'+
+                '<p>Fono: <a href="tel:' + value.phone + '">' + value.phone + '</a></p>'+
+                '<p>Comuna: ' + value.city + '</p>'+
+                '</div>');
                 infowindow.open(map, marker);
               }
             })(marker, i));
