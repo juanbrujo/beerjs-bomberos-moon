@@ -12,3 +12,9 @@ body {
 [m-mask] {
   display: none;
 }
+
+.mapa {}
+.navbar, 
+footer {
+  height: auto;
+}

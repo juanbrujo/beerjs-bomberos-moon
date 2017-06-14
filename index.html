@@ -1,19 +1,53 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
-    <meta charset="utf-8">
-    <title></title>
-    <link rel="stylesheet" type="text/css" href="./css/styles.css" />
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="SSR Bomberos CL">
+  <meta name="author" content="Jorge Epuñan">
+  <title>Bomberos Chile - Mapa Geolocalizado</title>
+  <link href='https://fonts.googleapis.com/css?family=Roboto:400,400italic,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
+  <link rel="stylesheet" href="https://mutable-tools.github.io/MutaGrid/mutagrid/dist/12/mutagrid.css" />
+  <link rel="stylesheet" href="https://juanbrujo.github.io/beerjs-bomberos-geolocalizacion/assets/css/style.css">
+  <link rel="stylesheet" type="text/css" href="./dist/css/build.min.css" />
+
   </head>
-  <body>
-    <!-- Where our app is mounted -->
-    <div id="app"></div>
 
-    <!-- Require Moon -->
-    <script src="/js/moon.min.js"></script>
-    <script src="./js/scripts.js"></script>
-    <script>app.mount("#app");</script>
+  <body id="app">
+    <header class="navbar">
+      <div class="row">
+        <div class="column-9">
+          <a class="navbar-brand" href="#">{{ title }}</a>
+          <span class="hamburguer -visible-xsmall">
+            &equiv;
+          </span>
+        </div>
+        <form class="column-3 navbar-form">
+          <select name="regiones" id="regiones">
+            <option m-for="bomba in bomberos">
+              <p>{{ bomba.name }}</p>
+              <p>{{ bomba.address }}</p>
+              <p>{{ bomba.phone }}</p>
+              <p>{{ bomba.city }}</p>
+            </option>
+          </select>
+      </form>
+    </div>
+  </header>
 
+  <main>
+    <section class="mapa" id="mapa"></section>
+  </main>
+
+  <footer>
+    <p>Proyecto financiado por <a href="http://www.beerjs.cl/">BeerJS Santiago</a>. Información rescatada de <a href="https://bomberos-cl-api.herokuapp.com/">Bomberos API</a> gracias a <a href="https://gist.github.com/lgaticaq/94a1f2dab326a7ab0226f09e1132556c#file-bomberos-json">lgaticaq</a></p>
+  </footer>
     
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCPZjPKs0Dr1Po04gzRjOEt72u-7P_ERD4"></script>
+  <script src="./dist/js/build.min.js"></script>
+  
   </body>
+
 </html>
