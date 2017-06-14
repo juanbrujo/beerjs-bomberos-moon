@@ -16,11 +16,14 @@ const server = express();
 
 // Start a static server serving our javascript assets
 server.use('/js', express.static(path.join(__dirname, 'js')));
+server.use("/css", express.static(__dirname + '/css'));
+server.use("/json", express.static(__dirname + '/json'));
 
 // Get the '/' route and send over the server rendered content
 server.get('/', (req, res) => {
   // Create a new instance of our Moon App
-  const app = require('./dist/js/build.min.js');
+  const app = require('./js/scripts.js', './css/styles.css', './json/bomberos.json')();
+
 
   // Render our App to HTML
   const html = MoonSSR.renderToString(app);
@@ -31,4 +34,4 @@ server.get('/', (req, res) => {
 
 // Start the Server on http://localhost:3000
 server.listen(3000);
-console.log('http://localhost:3000');
+console.log('http://localhost:3000')

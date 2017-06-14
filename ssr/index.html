@@ -6,28 +6,25 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="SSR Bomberos CL">
   <meta name="author" content="Jorge Epuñan">
-  <title></title>
-  <link rel="stylesheet" type="text/css" href="./dist/css/build.min.css" />
+  <title>SSR with MoonJS</title>
+  <title>Bomberos Chile - Mapa Geolocalizado</title>
+  <link href='https://fonts.googleapis.com/css?family=Roboto:400,400italic,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
+  <link rel="stylesheet" href="https://mutable-tools.github.io/MutaGrid/mutagrid/dist/12/mutagrid.css" />
+  <link rel="stylesheet" href="https://juanbrujo.github.io/beerjs-bomberos-geolocalizacion/assets/css/style.css">
+  <link rel="stylesheet" type="text/css" href="./css/styles.css" />
+  <!-- <link rel="stylesheet" type="text/css" href="./dist/css/build.min.css" /> -->
 
   </head>
 
   <body>
-    <div id="app" m-mask>
-      <h1>{{ name }}</h1>
-      <select>
-        <option m-for="bomba in bomberos">
-          <p>{{ bomba.name }}</p>
-          <p>{{ bomba.address }}</p>
-          <p>{{ bomba.phone }}</p>
-          <p>{{ bomba.city }}</p>
-        </option>
-      </select>
-      <div id="mapa"></div>
-    </div>
+    <div id="app"></div>
     
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCPZjPKs0Dr1Po04gzRjOEt72u-7P_ERD4"></script>
-    <!--script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script-->
-    <script src="./dist/js/build.min.js"></script>
+    <script src="https://unpkg.com/moonjs/dist/moon.js"></script>
+    <script src="//unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="./js/scripts.js"></script>
+    <script>app.callMethod('setMap', []);</script>
   
   </body>
 
