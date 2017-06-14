@@ -1,0 +1,3142 @@
+[
+  {
+    "address": "Vicuña Mackenna 802",
+    "city": "Arica",
+    "country": "Chile",
+    "latitude": -18.480781,
+    "longitud": -70.311448,
+    "name": "Cuerpo de Bomberos de Arica",
+    "phone": "+56582257614",
+    "region": "Región de Arica y Parinacota"
+  },
+  {
+    "address": "Los Alamos 3007",
+    "city": "Alto Hospicio",
+    "country": "Chile",
+    "latitude": -20.268843,
+    "longitud": -70.104428,
+    "name": "Cuerpo de Bomberos de Santa Rosa De Huantajaya",
+    "phone": "+56572499871",
+    "region": "Región de Tarapacá"
+  },
+  {
+    "address": "Noruega S/N",
+    "city": "Alto Hospicio",
+    "country": "Chile",
+    "latitude": -20.294159,
+    "longitud": -70.1043,
+    "name": "Cuerpo de Bomberos de Alto Hospicio",
+    "phone": "+56572499390",
+    "region": "Región de Tarapacá"
+  },
+  {
+    "address": "Arturo Prat S/N",
+    "city": "Camiña",
+    "country": "Chile",
+    "latitude": -19.312723,
+    "longitud": -69.425425,
+    "name": "Cuerpo de Bomberos de Camiña",
+    "phone": "+56562069541",
+    "region": "Región de Tarapacá"
+  },
+  {
+    "address": "Eleuterio Ramirez S/N",
+    "city": "Huara",
+    "country": "Chile",
+    "latitude": -19.996948,
+    "longitud": -69.772806,
+    "name": "Cuerpo de Bomberos de Huara",
+    "phone": "+56572752550",
+    "region": "Región de Tarapacá"
+  },
+  {
+    "address": "Bolívar 414",
+    "city": "Iquique",
+    "country": "Chile",
+    "latitude": -20.21241,
+    "longitud": -70.152029,
+    "name": "Cuerpo de Bomberos de Iquique",
+    "phone": "+56572413166",
+    "region": "Región de Tarapacá"
+  },
+  {
+    "address": "Barboza S/N",
+    "city": "Pica",
+    "country": "Chile",
+    "latitude": -20.490392,
+    "longitud": -69.328794,
+    "name": "Cuerpo de Bomberos de Pica",
+    "phone": "+56572741377",
+    "region": "Región de Tarapacá"
+  },
+  {
+    "address": "Aldunate 650",
+    "city": "Pozo Almonte",
+    "country": "Chile",
+    "latitude": -20.257961,
+    "longitud": -69.784737,
+    "name": "Cuerpo de Bomberos de Pozo Almonte",
+    "phone": "+56572752325",
+    "region": "Región de Tarapacá"
+  },
+  {
+    "address": "Sucre 545",
+    "city": "Antofagasta",
+    "country": "Chile",
+    "latitude": -23.647448,
+    "longitud": -70.396192,
+    "name": "Cuerpo de Bomberos de Antofagasta",
+    "phone": "+56552261304",
+    "region": "Región de Antofagasta"
+  },
+  {
+    "address": "Sotomayor 1862",
+    "city": "Calama",
+    "country": "Chile",
+    "latitude": -22.462566,
+    "longitud": -68.923875,
+    "name": "Cuerpo de Bomberos de Calama",
+    "phone": "+56552563602",
+    "region": "Región de Antofagasta"
+  },
+  {
+    "address": "Avenida Ohiggins  447",
+    "city": "María Elena",
+    "country": "Chile",
+    "latitude": -22.346113,
+    "longitud": -69.661221,
+    "name": "Cuerpo de Bomberos de Maria Elena",
+    "phone": "055413999",
+    "region": "Región de Antofagasta"
+  },
+  {
+    "address": "Almirante Latorre 511",
+    "city": "Mejillones",
+    "country": "Chile",
+    "latitude": -23.099721,
+    "longitud": -70.445784,
+    "name": "Cuerpo de Bomberos de Mejillones",
+    "phone": "+56552621591",
+    "region": "Región de Antofagasta"
+  },
+  {
+    "address": "El Inca 350",
+    "city": "San Pedro de Atacama",
+    "country": "Chile",
+    "latitude": -22.908975,
+    "longitud": -68.200507,
+    "name": "Cuerpo de Bomberos de San Pedro De Atacama",
+    "phone": "+56552851074",
+    "region": "Región de Antofagasta"
+  },
+  {
+    "address": "Calle Jaime Guzmán 200",
+    "city": "Baquedano",
+    "country": "Chile",
+    "latitude": -23.332438,
+    "longitud": -69.842324,
+    "name": "Cuerpo de Bomberos de Sierra Gorda",
+    "phone": "+56552641825",
+    "region": "Región de Antofagasta"
+  },
+  {
+    "address": "Ramírez 150",
+    "city": "Taltal",
+    "country": "Chile",
+    "latitude": -25.406985,
+    "longitud": -70.48638,
+    "name": "Cuerpo de Bomberos de Tal Tal",
+    "phone": "+56552611065",
+    "region": "Región de Antofagasta"
+  },
+  {
+    "address": "21 De Mayo 1561",
+    "city": "Tocopilla",
+    "country": "Chile",
+    "latitude": -22.092877,
+    "longitud": -70.201524,
+    "name": "Cuerpo de Bomberos de Tocopilla",
+    "phone": "+56552813132",
+    "region": "Región de Antofagasta"
+  },
+  {
+    "address": "Ossa Cerda 370",
+    "city": "Caldera",
+    "country": "Chile",
+    "latitude": -27.068545,
+    "longitud": -70.822803,
+    "name": "Cuerpo de Bomberos de Caldera",
+    "phone": "+56522315269",
+    "region": "III Región"
+  },
+  {
+    "address": "Merino Jarpa 570",
+    "city": "Chañaral",
+    "country": "Chile",
+    "latitude": -26.344437,
+    "longitud": -70.620478,
+    "name": "Cuerpo de Bomberos de Chañaral",
+    "phone": "+56522480198",
+    "region": "III Región"
+  },
+  {
+    "address": "Atacama 461",
+    "city": "Copiapó",
+    "country": "Chile",
+    "latitude": -27.36608,
+    "longitud": -70.335853,
+    "name": "Cuerpo de Bomberos de Copiapo",
+    "phone": "+56522212525",
+    "region": "III Región"
+  },
+  {
+    "address": "Francisco San Román 507",
+    "city": "Inca de Oro",
+    "country": "Chile",
+    "latitude": -26.754277,
+    "longitud": -69.90565,
+    "name": "Cuerpo de Bomberos de Inca De Oro",
+    "phone": "+56522688064",
+    "region": "III Región"
+  },
+  {
+    "address": "Juan Martínez 1501",
+    "city": "Diego de Almagro",
+    "country": "Chile",
+    "latitude": -26.391278,
+    "longitud": -70.046105,
+    "name": "Cuerpo de Bomberos de Diego De Almagro",
+    "phone": "+56522441289",
+    "region": "III Región"
+  },
+  {
+    "address": "Atacama 405",
+    "city": "Freirina",
+    "country": "Chile",
+    "latitude": -28.509161,
+    "longitud": -71.081828,
+    "name": "Cuerpo de Bomberos de Freirina",
+    "phone": "+56512518711",
+    "region": "III Región"
+  },
+  {
+    "address": "Latorre 346",
+    "city": "Huasco",
+    "country": "Chile",
+    "latitude": -28.466263,
+    "longitud": -71.221571,
+    "name": "Cuerpo de Bomberos de Huasco",
+    "phone": "+56512531017",
+    "region": "III Región"
+  },
+  {
+    "address": "Miguel Lemur 503",
+    "city": "Tierra Amarilla",
+    "country": "Chile",
+    "latitude": -27.466787,
+    "longitud": -70.265559,
+    "name": "Cuerpo de Bomberos de Tierra Amarilla",
+    "phone": "+56522320237",
+    "region": "III Región"
+  },
+  {
+    "address": "Ramírez 1198",
+    "city": "Vallenar",
+    "country": "Chile",
+    "latitude": -28.576881,
+    "longitud": -70.757228,
+    "name": "Cuerpo de Bomberos de Vallenar",
+    "phone": "+56512619241",
+    "region": "III Región"
+  },
+  {
+    "address": "Luis Miranda Ansieta S/N",
+    "city": "Andacollo",
+    "country": "Chile",
+    "latitude": -30.234234,
+    "longitud": -71.08407,
+    "name": "Cuerpo de Bomberos de Andacollo",
+    "phone": "+56512431635",
+    "region": "Región de Coquimbo"
+  },
+  {
+    "address": "Antonio Cuevas S/N",
+    "city": "Canela Baja",
+    "country": "Chile",
+    "latitude": -31.398409,
+    "longitud": -71.456261,
+    "name": "Cuerpo de Bomberos de Canela",
+    "phone": "+56532540348",
+    "region": "Región de Coquimbo"
+  },
+  {
+    "address": "Maipú 311",
+    "city": "Combarbala",
+    "country": "Chile",
+    "latitude": -31.178506,
+    "longitud": -71.001924,
+    "name": "Cuerpo de Bomberos de Combarbala",
+    "phone": "+56532741020",
+    "region": "Región de Coquimbo"
+  },
+  {
+    "address": "Aníbal Pinto 1298",
+    "city": "Coquimbo",
+    "country": "Chile",
+    "latitude": -29.955831,
+    "longitud": -71.339252,
+    "name": "Cuerpo de Bomberos de Coquimbo",
+    "phone": "+56512312342",
+    "region": "Región de Coquimbo"
+  },
+  {
+    "address": "Buin 540",
+    "city": "Illapel",
+    "country": "Chile",
+    "latitude": -31.631361,
+    "longitud": -71.162808,
+    "name": "Cuerpo de Bomberos de Illapel",
+    "phone": "+56532522396",
+    "region": "Región de Coquimbo"
+  },
+  {
+    "address": "Violeta Seura S/N",
+    "city": "La Higuera",
+    "country": "Chile",
+    "latitude": -29.515409,
+    "longitud": -71.19717,
+    "name": "Cuerpo de Bomberos de La Higuera",
+    "phone": "+5672352781",
+    "region": "Región de Coquimbo"
+  },
+  {
+    "address": "Francisco De Aguirre Y Balmaceda S/N",
+    "city": "La Serena",
+    "country": "Chile",
+    "latitude": -29.906047,
+    "longitud": -71.249982,
+    "name": "Cuerpo de Bomberos de La Serena",
+    "phone": "+56512225592",
+    "region": "Región de Coquimbo"
+  },
+  {
+    "address": "Lautaro 489",
+    "city": "Los Vilos",
+    "country": "Chile",
+    "latitude": -31.91109,
+    "longitud": -71.511859,
+    "name": "Cuerpo de Bomberos de Los Vilos",
+    "phone": "+56532541068",
+    "region": "Región de Coquimbo"
+  },
+  {
+    "address": "Galvarino 1",
+    "city": "El Palqui",
+    "country": "Chile",
+    "latitude": -30.768348,
+    "longitud": -70.942472,
+    "name": "Cuerpo de Bomberos de El Palqui",
+    "phone": "+56532711012",
+    "region": "Región de Coquimbo"
+  },
+  {
+    "address": "Miguel Aguirre 364",
+    "city": "Ovalle",
+    "country": "Chile",
+    "latitude": -30.604089,
+    "longitud": -71.201865,
+    "name": "Cuerpo de Bomberos de Ovalle",
+    "phone": "+56532620191",
+    "region": "Región de Coquimbo"
+  },
+  {
+    "address": "Balmaceda 129",
+    "city": "Paihuano",
+    "country": "Chile",
+    "latitude": -30.026167,
+    "longitud": -70.517007,
+    "name": "Cuerpo de Bomberos de Paihuano",
+    "phone": "+56512451071",
+    "region": "Región de Coquimbo"
+  },
+  {
+    "address": "Caupolicán 828",
+    "city": "Punitaqui",
+    "country": "Chile",
+    "latitude": -30.830647,
+    "longitud": -71.259399,
+    "name": "Cuerpo de Bomberos de Punitaqui",
+    "phone": "+56532731017",
+    "region": "Región de Coquimbo"
+  },
+  {
+    "address": "Hurtado S/N",
+    "city": "Río Hurtado",
+    "country": "Chile",
+    "latitude": -30.278844,
+    "longitud": -70.678007,
+    "name": "Cuerpo de Bomberos de Rio Hurtado",
+    "phone": "",
+    "region": "Región de Coquimbo"
+  },
+  {
+    "address": "Ruiz Valledor 231",
+    "city": "Salamanca",
+    "country": "Chile",
+    "latitude": -31.778392384202277,
+    "longitud": -70.96615666864773,
+    "name": "Cuerpo de Bomberos de Salamanca",
+    "phone": "+56532551040",
+    "region": "Región de Coquimbo"
+  },
+  {
+    "address": "San Martín 150",
+    "city": "Vicuña",
+    "country": "Chile",
+    "latitude": -30.03512,
+    "longitud": -70.713673,
+    "name": "Cuerpo de Bomberos de Vicuña",
+    "phone": "+56512411242",
+    "region": "Región de Coquimbo"
+  },
+  {
+    "address": "Peñablanca 305",
+    "city": "Algarrobo",
+    "country": "Chile",
+    "latitude": -33.367623,
+    "longitud": -71.673862,
+    "name": "Cuerpo de Bomberos de Algarrobo",
+    "phone": "+56352481190",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Humeres 830",
+    "city": "Cabildo",
+    "country": "Chile",
+    "latitude": -32.427316,
+    "longitud": -71.068485,
+    "name": "Cuerpo de Bomberos de Cabildo",
+    "phone": "+56332761070",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Cartagena 137",
+    "city": "Cartagena",
+    "country": "Chile",
+    "latitude": -33.546511,
+    "longitud": -71.603432,
+    "name": "Cuerpo de Bomberos de Cartagena",
+    "phone": "0352450046",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Alejandro Galaz 343",
+    "city": "Casablanca",
+    "country": "Chile",
+    "latitude": -33.315002,
+    "longitud": -71.411179,
+    "name": "Cuerpo de Bomberos de Casablanca",
+    "phone": "+56322742366",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "García Huidobro S/N",
+    "city": "Catemu",
+    "country": "Chile",
+    "latitude": -32.778491,
+    "longitud": -70.962838,
+    "name": "Cuerpo de Bomberos de Catemu",
+    "phone": "+56342631219",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Ignacio Carrera Pinto 032",
+    "city": "El Quisco",
+    "country": "Chile",
+    "latitude": -33.397467,
+    "longitud": -71.69378,
+    "name": "Cuerpo de Bomberos de El Quisco",
+    "phone": "+56352471166",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "San Martín 951",
+    "city": "El Tabo",
+    "country": "Chile",
+    "latitude": -33.454995,
+    "longitud": -71.665948,
+    "name": "Cuerpo de Bomberos de El Tabo",
+    "phone": "+56352469699",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Manuel Rodríguez 1735",
+    "city": "Hijuelas",
+    "country": "Chile",
+    "latitude": -32.802474,
+    "longitud": -71.144084,
+    "name": "Cuerpo de Bomberos de Hijuelas",
+    "phone": "+56332272737",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Tepito O Tehenua S/N",
+    "city": "Hanga Roa",
+    "country": "Chile",
+    "latitude": -27.147732,
+    "longitud": -109.428186,
+    "name": "Cuerpo de Bomberos de Isla De Pascua",
+    "phone": "+56322551564",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Aldunate 341",
+    "city": "La Calera",
+    "country": "Chile",
+    "latitude": -32.787311,
+    "longitud": -71.190641,
+    "name": "Cuerpo de Bomberos de La Calera",
+    "phone": "+56332225570",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "21 De Mayo 3302",
+    "city": "La Cruz",
+    "country": "Chile",
+    "latitude": -32.827799,
+    "longitud": -71.227021,
+    "name": "Cuerpo de Bomberos de La Cruz",
+    "phone": "+56332320166",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Diego Portales 298",
+    "city": "La Ligua",
+    "country": "Chile",
+    "latitude": -32.450494,
+    "longitud": -71.229036,
+    "name": "Cuerpo de Bomberos de La Ligua",
+    "phone": "+56332711024",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "República 368",
+    "city": "Limache",
+    "country": "Chile",
+    "latitude": -33.003121,
+    "longitud": -71.264112,
+    "name": "Cuerpo de Bomberos de Limache",
+    "phone": "+56332413702",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Balmaceda 181",
+    "city": "Llay Llay",
+    "country": "Chile",
+    "latitude": -32.842221,
+    "longitud": -70.954401,
+    "name": "Cuerpo de Bomberos de Llay Llay",
+    "phone": "+56342611060",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Esmeralda 130",
+    "city": "Los Andes",
+    "country": "Chile",
+    "latitude": -32.834348,
+    "longitud": -70.596548,
+    "name": "Cuerpo de Bomberos de Los Andes",
+    "phone": "+56342421212",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Simón Bolívar 14",
+    "city": "Nogales",
+    "country": "Chile",
+    "latitude": -32.736491,
+    "longitud": -71.20012,
+    "name": "Cuerpo de Bomberos de Nogales",
+    "phone": "+56332262823",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Diego Portales 2005",
+    "city": "Olmué",
+    "country": "Chile",
+    "latitude": -32.998222,
+    "longitud": -71.185878,
+    "name": "Cuerpo de Bomberos de Olmue",
+    "phone": "+56332441488",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Fernández Concha 721",
+    "city": "Papudo",
+    "country": "Chile",
+    "latitude": -32.506342,
+    "longitud": -71.439958,
+    "name": "Cuerpo de Bomberos de Papudo",
+    "phone": "+56332791127",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Manuel Montt 795",
+    "city": "Petorca",
+    "country": "Chile",
+    "latitude": -32.251734,
+    "longitud": -70.929693,
+    "name": "Cuerpo de Bomberos de Petorca",
+    "phone": "+56332781052",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Latorre 270",
+    "city": "Puchuncaví",
+    "country": "Chile",
+    "latitude": -32.725706,
+    "longitud": -71.415088,
+    "name": "Cuerpo de Bomberos de Puchuncavi",
+    "phone": "+56322791028",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Camus 130",
+    "city": "Putaendo",
+    "country": "Chile",
+    "latitude": -32.626197,
+    "longitud": -70.717777,
+    "name": "Cuerpo de Bomberos de Putaendo",
+    "phone": "+56342501026",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Yungay 315",
+    "city": "Quillota",
+    "country": "Chile",
+    "latitude": -32.885917,
+    "longitud": -71.247274,
+    "name": "Cuerpo de Bomberos de Quillota",
+    "phone": "+56332312987",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Bulnes 1029",
+    "city": "Quilpué",
+    "country": "Chile",
+    "latitude": -33.050074,
+    "longitud": -71.442838,
+    "name": "Cuerpo de Bomberos de Quilpue",
+    "phone": "+56322910310",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Normandie 1980",
+    "city": "Quintero",
+    "country": "Chile",
+    "latitude": -32.786951,
+    "longitud": -71.527475,
+    "name": "Cuerpo de Bomberos de Quintero",
+    "phone": "+56322933145",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "San Martin 2502",
+    "city": "Rinconada",
+    "country": "Chile",
+    "latitude": -32.851804,
+    "longitud": -70.684255,
+    "name": "Cuerpo de Bomberos de Rinconada",
+    "phone": "+56342401022",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Domingo Fernandez Concha 808",
+    "city": "San Antonio",
+    "country": "Chile",
+    "latitude": -33.587026,
+    "longitud": -71.606125,
+    "name": "Cuerpo de Bomberos de San Antonio",
+    "phone": "+56352211144",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Santa Teresa 31",
+    "city": "San Esteban",
+    "country": "Chile",
+    "latitude": -32.799355,
+    "longitud": -70.58079,
+    "name": "Cuerpo de Bomberos de San Esteban",
+    "phone": "+56342482600",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Merced 832",
+    "city": "San Felipe",
+    "country": "Chile",
+    "latitude": -32.75182,
+    "longitud": -70.725938,
+    "name": "Cuerpo de Bomberos de San Felipe",
+    "phone": "+56342518817",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Almirante Latorre 730",
+    "city": "Santa Maria",
+    "country": "Chile",
+    "latitude": -32.747601,
+    "longitud": -70.655663,
+    "name": "Cuerpo de Bomberos de Santa Maria",
+    "phone": "+56342582024",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "El Golf 130",
+    "city": "Rocas de Santo Domingo",
+    "country": "Chile",
+    "latitude": -33.636133,
+    "longitud": -71.620754,
+    "name": "Cuerpo de Bomberos de Santo Domingo",
+    "phone": "+56352441804",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Plaza Sotomayor 147",
+    "city": "Valparaíso",
+    "country": "Chile",
+    "latitude": -33.038887,
+    "longitud": -71.628865,
+    "name": "Cuerpo de Bomberos de Valparaiso",
+    "phone": "+56322255856",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Ignacio Carrera Pinto 34",
+    "city": "Villa Alemana",
+    "country": "Chile",
+    "latitude": -33.044057,
+    "longitud": -71.364859,
+    "name": "Cuerpo de Bomberos de Villa Alemana",
+    "phone": "+56322951446",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Valparaiso 6791",
+    "city": "Viña del Mar",
+    "country": "Chile",
+    "latitude": -33.020899,
+    "longitud": -71.544744,
+    "name": "Cuerpo de Bomberos de Viña Del Mar",
+    "phone": "+56322685194",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "Benito Del Villar 100",
+    "city": "Zapallar",
+    "country": "Chile",
+    "latitude": -32.556598,
+    "longitud": -71.454723,
+    "name": "Cuerpo de Bomberos de Zapallar",
+    "phone": "+56332741262",
+    "region": "Región de Valparaíso"
+  },
+  {
+    "address": "O'Higgins S/N",
+    "city": "Alhue",
+    "country": "Chile",
+    "latitude": -34.026087,
+    "longitud": -71.098825,
+    "name": "Cuerpo de Bomberos de Villa Alhue",
+    "phone": "+5628321111",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "Arturo Prat 657",
+    "city": "Buin",
+    "country": "Chile",
+    "latitude": -33.733808,
+    "longitud": -70.745545,
+    "name": "Cuerpo de Bomberos de Buin",
+    "phone": "+5628213660",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "Carretera G. San Martín 060",
+    "city": "Colina",
+    "country": "Chile",
+    "latitude": -33.204938,
+    "longitud": -70.676547,
+    "name": "Cuerpo de Bomberos de Colina",
+    "phone": "+5628441573",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "Independencia 3540",
+    "city": "Conchalí",
+    "country": "Chile",
+    "latitude": -33.396094,
+    "longitud": -70.671716,
+    "name": "Cuerpo de Bomberos de Conchali",
+    "phone": "+5627362070",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "Ambrosio O'Higgins 1599",
+    "city": "Curacavi",
+    "country": "Chile",
+    "latitude": -33.403938,
+    "longitud": -71.133384,
+    "name": "Cuerpo de Bomberos de Curacavi",
+    "phone": "+5628352488",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "Los Libertadores 450",
+    "city": "El Monte",
+    "country": "Chile",
+    "latitude": -33.681432,
+    "longitud": -70.981784,
+    "name": "Cuerpo de Bomberos de El Monte",
+    "phone": "+5628182622",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "Santelices 154",
+    "city": "Isla de Maipo",
+    "country": "Chile",
+    "latitude": -33.756061,
+    "longitud": -70.897827,
+    "name": "Cuerpo de Bomberos de Isla De Maipo",
+    "phone": "028192801",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "Argentina 2095",
+    "city": "San Ramón",
+    "country": "Chile",
+    "latitude": -33.533124,
+    "longitud": -70.635357,
+    "name": "Cuerpo de Bomberos de La Granja",
+    "phone": "+5625253323",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "5 De Abril 258",
+    "city": "Maipú",
+    "country": "Chile",
+    "latitude": -33.510883,
+    "longitud": -70.760518,
+    "name": "Cuerpo de Bomberos de Maipu",
+    "phone": "+5625316046",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "Santa Emilia. S/N",
+    "city": "María Pinto",
+    "country": "Chile",
+    "latitude": -33.470835,
+    "longitud": -71.111406,
+    "name": "Cuerpo de Bomberos de Maria Pinto",
+    "phone": "+5628351853",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "Hermosilla 15",
+    "city": "San Pedro",
+    "country": "Chile",
+    "latitude": -33.89427,
+    "longitud": -71.457163,
+    "name": "Cuerpo de Bomberos de San Pedro De Melipilla",
+    "phone": "+5628326500",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "Serrano 591",
+    "city": "Melipilla",
+    "country": "Chile",
+    "latitude": -33.687218,
+    "longitud": -71.213922,
+    "name": "Cuerpo de Bomberos de Melipilla",
+    "phone": "+5628317349",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "José Pedro Alessandri 845",
+    "city": "Ñuñoa",
+    "country": "Chile",
+    "latitude": -33.462389,
+    "longitud": -70.599166,
+    "name": "Cuerpo de Bomberos de Ñuñoa",
+    "phone": "022371993",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "Presidente Prieto 0380",
+    "city": "Paine",
+    "country": "Chile",
+    "latitude": -33.813909,
+    "longitud": -70.745777,
+    "name": "Cuerpo de Bomberos de Paine",
+    "phone": "+5628241086",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "21 De Mayo 4234",
+    "city": "Penaflor",
+    "country": "Chile",
+    "latitude": -33.60793,
+    "longitud": -70.899111,
+    "name": "Cuerpo de Bomberos de Peñaflor",
+    "phone": "+5628128057",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "Balamaceda 470",
+    "city": "Puente Alto",
+    "country": "Chile",
+    "latitude": -33.60709,
+    "longitud": -70.575676,
+    "name": "Cuerpo de Bomberos de Puente Alto",
+    "phone": "+5628501211",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "José Pedro Escobar S/N",
+    "city": "Quilicura",
+    "country": "Chile",
+    "latitude": -33.367103,
+    "longitud": -70.73138,
+    "name": "Cuerpo de Bomberos de Quilicura",
+    "phone": "+5626035561",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "Martinez De Rosas 4700",
+    "city": "Quinta Normal",
+    "country": "Chile",
+    "latitude": -33.436296,
+    "longitud": -70.700378,
+    "name": "Cuerpo de Bomberos de Quinta Normal",
+    "phone": "+5627735858",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "Covadonga 459",
+    "city": "San Bernardo",
+    "country": "Chile",
+    "latitude": -33.594695,
+    "longitud": -70.704525,
+    "name": "Cuerpo de Bomberos de San Bernardo",
+    "phone": "+5628592594",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "Camino El Volcán 20426",
+    "city": "San José de Maipo",
+    "country": "Chile",
+    "latitude": -33.583967,
+    "longitud": -70.397049,
+    "name": "Cuerpo de Bomberos de San Jose De Maipo",
+    "phone": "+5628611530",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "San Nicolás 1153",
+    "city": "San Miguel",
+    "country": "Chile",
+    "latitude": -33.498958,
+    "longitud": -70.654779,
+    "name": "Cuerpo de Bomberos de Metropolitano Sur",
+    "phone": "+5625598341",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "Santo Domingo 978",
+    "city": "Santiago",
+    "country": "Chile",
+    "latitude": -33.43624,
+    "longitud": -70.651091,
+    "name": "Cuerpo de Bomberos de Santiago",
+    "phone": "+5626721204",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "Bernardo O'Higgins 1239",
+    "city": "Talagante",
+    "country": "Chile",
+    "latitude": -33.663803,
+    "longitud": -70.930479,
+    "name": "Cuerpo de Bomberos de Talagante",
+    "phone": "028151810",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "Emilio Valle 057",
+    "city": "Tiltil",
+    "country": "Chile",
+    "latitude": -33.082637,
+    "longitud": -70.929645,
+    "name": "Cuerpo de Bomberos de Til Til",
+    "phone": "+5628461283",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "18 De Septiembre S/N",
+    "city": "Chépica",
+    "country": "Chile",
+    "latitude": -34.728511,
+    "longitud": -71.272453,
+    "name": "Cuerpo de Bomberos de Chepica",
+    "phone": "+56722817273",
+    "region": "VI Región"
+  },
+  {
+    "address": "Carmen Larraín 13",
+    "city": "Chimbarongo",
+    "country": "Chile",
+    "latitude": -34.708139,
+    "longitud": -71.041737,
+    "name": "Cuerpo de Bomberos de Chimbarongo",
+    "phone": "+56722781146",
+    "region": "VI Región"
+  },
+  {
+    "address": "O'Higgins 300",
+    "city": "Codegua",
+    "country": "Chile",
+    "latitude": -34.035223,
+    "longitud": -70.667948,
+    "name": "Cuerpo de Bomberos de Codegua",
+    "phone": "072472018",
+    "region": "VI Región"
+  },
+  {
+    "address": "Bernardo O' Higgins 77",
+    "city": "Coinco",
+    "country": "Chile",
+    "latitude": -34.269045,
+    "longitud": -70.950398,
+    "name": "Cuerpo de Bomberos de Coinco",
+    "phone": "+56722441122",
+    "region": "VI Región"
+  },
+  {
+    "address": "Bernardo O' Higgins 282",
+    "city": "Coltauco",
+    "country": "Chile",
+    "latitude": -34.292133,
+    "longitud": -71.079392,
+    "name": "Cuerpo de Bomberos de Coltauco",
+    "phone": "+56722451799",
+    "region": "VI Región"
+  },
+  {
+    "address": "Estación S/N",
+    "city": "Doñihue",
+    "country": "Chile",
+    "latitude": -34.228561,
+    "longitud": -70.964455,
+    "name": "Cuerpo de Bomberos de Doñihue",
+    "phone": "+56722462218",
+    "region": "VI Región"
+  },
+  {
+    "address": "La Compañia 0157",
+    "city": "Graneros",
+    "country": "Chile",
+    "latitude": -34.068834,
+    "longitud": -70.723646,
+    "name": "Cuerpo de Bomberos de Graneros",
+    "phone": "+56722471328",
+    "region": "VI Región"
+  },
+  {
+    "address": "Manuel Rodríguez 878",
+    "city": "La Estrella",
+    "country": "Chile",
+    "latitude": -34.206787,
+    "longitud": -71.656603,
+    "name": "Cuerpo de Bomberos de La Estrella",
+    "phone": "+56722933774",
+    "region": "VI Región"
+  },
+  {
+    "address": "San Martín 835",
+    "city": "Las Cabras",
+    "country": "Chile",
+    "latitude": -34.291175,
+    "longitud": -71.308978,
+    "name": "Cuerpo de Bomberos de Las Cabras",
+    "phone": "+56722501128",
+    "region": "VI Región"
+  },
+  {
+    "address": "Hermanos Carrera 1148",
+    "city": "Litueche",
+    "country": "Chile",
+    "latitude": -34.119618,
+    "longitud": -71.727428,
+    "name": "Cuerpo de Bomberos de Litueche",
+    "phone": "+56722851074",
+    "region": "VI Región"
+  },
+  {
+    "address": "Los Alerces 135",
+    "city": "Lolol",
+    "country": "Chile",
+    "latitude": -34.728214,
+    "longitud": -71.649287,
+    "name": "Cuerpo de Bomberos de Lolol",
+    "phone": "+56722824670",
+    "region": "VI Región"
+  },
+  {
+    "address": "Miranda 449",
+    "city": "Machalí",
+    "country": "Chile",
+    "latitude": -34.180038,
+    "longitud": -70.65019,
+    "name": "Cuerpo de Bomberos de Machali",
+    "phone": "+56722411213",
+    "region": "VI Región"
+  },
+  {
+    "address": "La Gloria 65",
+    "city": "Malloa",
+    "country": "Chile",
+    "latitude": -34.444436,
+    "longitud": -70.945706,
+    "name": "Cuerpo de Bomberos de Malloa",
+    "phone": "+56722387003",
+    "region": "VI Región"
+  },
+  {
+    "address": "Carlos Ortiz 430",
+    "city": "Marchihue",
+    "country": "Chile",
+    "latitude": -34.399602,
+    "longitud": -71.617574,
+    "name": "Cuerpo de Bomberos de Marchigue",
+    "phone": "+56722831175",
+    "region": "VI Región"
+  },
+  {
+    "address": "Armando Jaramillo 5",
+    "city": "Nancagua",
+    "country": "Chile",
+    "latitude": -34.651091,
+    "longitud": -71.205469,
+    "name": "Cuerpo de Bomberos de Nancagua",
+    "phone": "+56722858390",
+    "region": "VI Región"
+  },
+  {
+    "address": "Juan Montes S/N",
+    "city": "Navidad",
+    "country": "Chile",
+    "latitude": -33.950933,
+    "longitud": -71.832922,
+    "name": "Cuerpo de Bomberos de Navidad",
+    "phone": "+56722227809",
+    "region": "VI Región"
+  },
+  {
+    "address": "Rafael Estrada 197",
+    "city": "Olivar",
+    "country": "Chile",
+    "latitude": -34.210916,
+    "longitud": -70.814606,
+    "name": "Cuerpo de Bomberos de Olivar",
+    "phone": "+56722391966",
+    "region": "VI Región"
+  },
+  {
+    "address": "Doctor Moore 82",
+    "city": "Paredones",
+    "country": "Chile",
+    "latitude": -34.650328,
+    "longitud": -71.89953,
+    "name": "Cuerpo de Bomberos de Paredones",
+    "phone": "+56722824852",
+    "region": "VI Región"
+  },
+  {
+    "address": "Errazuriz 311",
+    "city": "Peralillo",
+    "country": "Chile",
+    "latitude": -34.47978,
+    "longitud": -71.47886,
+    "name": "Cuerpo de Bomberos de Peralillo",
+    "phone": "+56722861291",
+    "region": "VI Región"
+  },
+  {
+    "address": "Walter Martínez 364",
+    "city": "Peumo",
+    "country": "Chile",
+    "latitude": -34.392136,
+    "longitud": -71.170004,
+    "name": "Cuerpo de Bomberos de Peumo",
+    "phone": "+56722561466",
+    "region": "VI Región"
+  },
+  {
+    "address": "Covadonga 17",
+    "city": "Pichidegua",
+    "country": "Chile",
+    "latitude": -34.357066,
+    "longitud": -71.282324,
+    "name": "Cuerpo de Bomberos de Pichidegua",
+    "phone": "+56722591333",
+    "region": "VI Región"
+  },
+  {
+    "address": "San Antonio 124",
+    "city": "Pichilemu",
+    "country": "Chile",
+    "latitude": -34.387298,
+    "longitud": -72.00048,
+    "name": "Cuerpo de Bomberos de Pichilemu",
+    "phone": "+56722841001",
+    "region": "VI Región"
+  },
+  {
+    "address": "Miraflores 697",
+    "city": "Placilla",
+    "country": "Chile",
+    "latitude": -34.637249,
+    "longitud": -71.118743,
+    "name": "Cuerpo de Bomberos de Placilla",
+    "phone": "+56722858606",
+    "region": "VI Región"
+  },
+  {
+    "address": "Rosario 710",
+    "city": "Pumanque",
+    "country": "Chile",
+    "latitude": -34.599555,
+    "longitud": -71.652387,
+    "name": "Cuerpo de Bomberos de Pumanque",
+    "phone": "+56722824704",
+    "region": "VI Región"
+  },
+  {
+    "address": "Av Castro 583",
+    "city": "Quinta de Tilcoco",
+    "country": "Chile",
+    "latitude": -34.353806,
+    "longitud": -70.9692,
+    "name": "Cuerpo de Bomberos de Quinta De Tilcoco",
+    "phone": "072541395",
+    "region": "VI Región"
+  },
+  {
+    "address": "Brasil 860",
+    "city": "Rancagua",
+    "country": "Chile",
+    "latitude": -34.169511,
+    "longitud": -70.74684,
+    "name": "Cuerpo de Bomberos de Rancagua",
+    "phone": "+56722222984",
+    "region": "VI Región"
+  },
+  {
+    "address": "Errázuriz 295",
+    "city": "Rengo",
+    "country": "Chile",
+    "latitude": -34.408859,
+    "longitud": -70.862768,
+    "name": "Cuerpo de Bomberos de Rengo",
+    "phone": "+56722511992",
+    "region": "VI Región"
+  },
+  {
+    "address": "Guillermo Shell Norte 142",
+    "city": "Requinoa",
+    "country": "Chile",
+    "latitude": -34.284357,
+    "longitud": -70.817791,
+    "name": "Cuerpo de Bomberos de Requinoa",
+    "phone": "+56722551080",
+    "region": "VI Región"
+  },
+  {
+    "address": "Argomedo 615",
+    "city": "San Fernando",
+    "country": "Chile",
+    "latitude": -34.583629,
+    "longitud": -70.987689,
+    "name": "Cuerpo de Bomberos de San Fernando",
+    "phone": "+56722711247",
+    "region": "VI Región"
+  },
+  {
+    "address": "Independencia 119",
+    "city": "Mostazal",
+    "country": "Chile",
+    "latitude": -33.976463,
+    "longitud": -70.712054,
+    "name": "Cuerpo de Bomberos de San Francisco De Mostazal",
+    "phone": "+56722491070",
+    "region": "VI Región"
+  },
+  {
+    "address": "Tagua Tagua 370",
+    "city": "San Vicente",
+    "country": "Chile",
+    "latitude": -34.439719,
+    "longitud": -71.076187,
+    "name": "Cuerpo de Bomberos de San Vicente De T. T.",
+    "phone": "+56722572196",
+    "region": "VI Región"
+  },
+  {
+    "address": "Díaz Besoaín 141",
+    "city": "Santa Cruz",
+    "country": "Chile",
+    "latitude": -34.639096,
+    "longitud": -71.367243,
+    "name": "Cuerpo de Bomberos de Santa Cruz",
+    "phone": "+56722822310",
+    "region": "VI Región"
+  },
+  {
+    "address": "Victoria 885",
+    "city": "Cauquenes",
+    "country": "Chile",
+    "latitude": -35.967775,
+    "longitud": -72.321543,
+    "name": "Cuerpo de Bomberos de Cauquenes",
+    "phone": "+56732511211",
+    "region": "VII Región"
+  },
+  {
+    "address": "Teniente Merino 53",
+    "city": "Chanco",
+    "country": "Chile",
+    "latitude": -35.737016,
+    "longitud": -72.534331,
+    "name": "Cuerpo de Bomberos de Chanco",
+    "phone": "+56732551262",
+    "region": "VII Región"
+  },
+  {
+    "address": "Adolfo Novoa 184",
+    "city": "Colbun",
+    "country": "Chile",
+    "latitude": -35.696972,
+    "longitud": -71.403722,
+    "name": "Cuerpo de Bomberos de Colbun",
+    "phone": "+56732351122",
+    "region": "VII Región"
+  },
+  {
+    "address": "Vial 380",
+    "city": "Constitución",
+    "country": "Chile",
+    "latitude": -35.332675,
+    "longitud": -72.407585,
+    "name": "Cuerpo de Bomberos de Constitucion",
+    "phone": "+56712675969",
+    "region": "VII Región"
+  },
+  {
+    "address": "Rvdo. José Cappel 1",
+    "city": "Curepto",
+    "country": "Chile",
+    "latitude": -35.093679,
+    "longitud": -72.017362,
+    "name": "Cuerpo de Bomberos de Curepto",
+    "phone": "+56752690143",
+    "region": "VII Región"
+  },
+  {
+    "address": "Arturo Prat Y Membrillar S/N",
+    "city": "Curicó",
+    "country": "Chile",
+    "latitude": -34.983685,
+    "longitud": -71.237072,
+    "name": "Cuerpo de Bomberos de Curico",
+    "phone": "+56752318850",
+    "region": "VII Región"
+  },
+  {
+    "address": "Bernardo O'Higgins 274",
+    "city": "Empedrado",
+    "country": "Chile",
+    "latitude": -35.587882,
+    "longitud": -72.273416,
+    "name": "Cuerpo de Bomberos de Empedrado",
+    "phone": "+56711971137",
+    "region": "VII Región"
+  },
+  {
+    "address": "11 De Septiembre S/N",
+    "city": "Hualañé",
+    "country": "Chile",
+    "latitude": -34.973385,
+    "longitud": -71.785321,
+    "name": "Cuerpo de Bomberos de Hualañe",
+    "phone": "+56752481014",
+    "region": "VII Región"
+  },
+  {
+    "address": "Alejandro Rojas 162",
+    "city": "Licanten",
+    "country": "Chile",
+    "latitude": -34.985656,
+    "longitud": -71.983836,
+    "name": "Cuerpo de Bomberos de Licanten",
+    "phone": "+56752460048",
+    "region": "VII Región"
+  },
+  {
+    "address": "Valentín Letelier Y Freire. S/N",
+    "city": "Linares",
+    "country": "Chile",
+    "latitude": -35.847978,
+    "longitud": -71.601049,
+    "name": "Cuerpo de Bomberos de Linares",
+    "phone": "+56732213222",
+    "region": "VII Región"
+  },
+  {
+    "address": "Uno Sur 184",
+    "city": "Longaví",
+    "country": "Chile",
+    "latitude": -35.966498,
+    "longitud": -71.685436,
+    "name": "Cuerpo de Bomberos de Longavi",
+    "phone": "+56732411339",
+    "region": "VII Región"
+  },
+  {
+    "address": "Serrano S/N",
+    "city": "Maule",
+    "country": "Chile",
+    "latitude": -35.518446,
+    "longitud": -71.68903,
+    "name": "Cuerpo de Bomberos de Maule",
+    "phone": "+56712631103",
+    "region": "VII Región"
+  },
+  {
+    "address": "Independencia 1757",
+    "city": "Molina",
+    "country": "Chile",
+    "latitude": -35.112115,
+    "longitud": -71.281423,
+    "name": "Cuerpo de Bomberos de Molina",
+    "phone": "+56752491116",
+    "region": "VII Región"
+  },
+  {
+    "address": "Dieciocho 685",
+    "city": "Parral",
+    "country": "Chile",
+    "latitude": -36.140765,
+    "longitud": -71.825768,
+    "name": "Cuerpo de Bomberos de Parral",
+    "phone": "+56732462600",
+    "region": "VII Región"
+  },
+  {
+    "address": "San Pedro S/N",
+    "city": "Pelarco",
+    "country": "Chile",
+    "latitude": -35.384484,
+    "longitud": -71.446276,
+    "name": "Cuerpo de Bomberos de Pelarco",
+    "phone": "+56711970295",
+    "region": "VII Región"
+  },
+  {
+    "address": "Miguel Grau 160",
+    "city": "Pelluhue",
+    "country": "Chile",
+    "latitude": -35.811661,
+    "longitud": -72.573305,
+    "name": "Cuerpo de Bomberos de Pelluhue",
+    "phone": "+5679685032",
+    "region": "VII Región"
+  },
+  {
+    "address": "Hernando Bravo De Villalba 1095",
+    "city": "Pencahue",
+    "country": "Chile",
+    "latitude": -35.390647,
+    "longitud": -71.806879,
+    "name": "Cuerpo de Bomberos de Pencahue",
+    "phone": "+56711971302",
+    "region": "VII Región"
+  },
+  {
+    "address": "Sta. María S/N",
+    "city": "Rauco",
+    "country": "Chile",
+    "latitude": -34.927334,
+    "longitud": -71.318622,
+    "name": "Cuerpo de Bomberos de Rauco",
+    "phone": "+56752441082",
+    "region": "VII Región"
+  },
+  {
+    "address": "Errázuriz 460",
+    "city": "Retiro",
+    "country": "Chile",
+    "latitude": -36.055487,
+    "longitud": -71.764055,
+    "name": "Cuerpo de Bomberos de Retiro",
+    "phone": "+56732421026",
+    "region": "VII Región"
+  },
+  {
+    "address": "Maximiliano Gatica S/N",
+    "city": "Río Claro",
+    "country": "Chile",
+    "latitude": -35.281654,
+    "longitud": -71.257455,
+    "name": "Cuerpo de Bomberos de Cumpeo",
+    "phone": "+56712291034",
+    "region": "VII Región"
+  },
+  {
+    "address": "Oscar Bonilla 60",
+    "city": "Romeral",
+    "country": "Chile",
+    "latitude": -34.962289,
+    "longitud": -71.12536,
+    "name": "Cuerpo de Bomberos de Romeral",
+    "phone": "+56752431030",
+    "region": "VII Región"
+  },
+  {
+    "address": "Esmeralda 15",
+    "city": "Sagrada Familia",
+    "country": "Chile",
+    "latitude": -35.00056,
+    "longitud": -71.37931,
+    "name": "Cuerpo de Bomberos de Sagrada Familia",
+    "phone": "+56752451089",
+    "region": "VII Región"
+  },
+  {
+    "address": "Huamachuco 1125",
+    "city": "San Clemente",
+    "country": "Chile",
+    "latitude": -35.535796,
+    "longitud": -71.492825,
+    "name": "Cuerpo de Bomberos de San Clemente",
+    "phone": "+56712621272",
+    "region": "VII Región"
+  },
+  {
+    "address": "Loncomilla 2465",
+    "city": "San Javier",
+    "country": "Chile",
+    "latitude": -35.595939,
+    "longitud": -71.732032,
+    "name": "Cuerpo de Bomberos de San Javier De Loncomilla",
+    "phone": "+56732322536",
+    "region": "VII Región"
+  },
+  {
+    "address": "Calle Ignacio Bascuñan 450",
+    "city": "San Rafael",
+    "country": "Chile",
+    "latitude": -35.305426,
+    "longitud": -71.514093,
+    "name": "Cuerpo de Bomberos de San Rafael",
+    "phone": "+56712651844",
+    "region": "VII Región"
+  },
+  {
+    "address": "2 Sur 1160",
+    "city": "Talca",
+    "country": "Chile",
+    "latitude": -35.42893,
+    "longitud": -71.659894,
+    "name": "Cuerpo de Bomberos de Talca",
+    "phone": "+56712214402",
+    "region": "VII Región"
+  },
+  {
+    "address": "Comalle 108",
+    "city": "Teno",
+    "country": "Chile",
+    "latitude": -34.8704338,
+    "longitud": -71.1633152,
+    "name": "Cuerpo de Bomberos de Teno",
+    "phone": "+56752411035",
+    "region": "VII Región"
+  },
+  {
+    "address": "San Antonio 295",
+    "city": "Llico",
+    "country": "Chile",
+    "latitude": -34.76504,
+    "longitud": -72.079531,
+    "name": "Cuerpo de Bomberos de Llico",
+    "phone": "+56752400015",
+    "region": "VII Región"
+  },
+  {
+    "address": "Abate Molina 939",
+    "city": "Villa Alegre",
+    "country": "Chile",
+    "latitude": -35.68111,
+    "longitud": -71.740127,
+    "name": "Cuerpo de Bomberos de Villa Alegre",
+    "phone": "+56732381591",
+    "region": "VII Región"
+  },
+  {
+    "address": "Centenario 66",
+    "city": "Yerbas Buenas",
+    "country": "Chile",
+    "latitude": -35.748297,
+    "longitud": -71.584045,
+    "name": "Cuerpo de Bomberos de Yerbas Buenas",
+    "phone": "+56732390046",
+    "region": "VII Región"
+  },
+  {
+    "address": "Sargento Aldea 15",
+    "city": "Antuco",
+    "country": "Chile",
+    "latitude": -37.32967,
+    "longitud": -71.675773,
+    "name": "Cuerpo de Bomberos de Antuco",
+    "phone": "+56432621034",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Caupolicán 310",
+    "city": "Arauco",
+    "country": "Chile",
+    "latitude": -37.246201,
+    "longitud": -73.318405,
+    "name": "Cuerpo de Bomberos de Arauco",
+    "phone": "+56412551914",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Manuel Bulnes 225",
+    "city": "Bulnes",
+    "country": "Chile",
+    "latitude": -36.744205,
+    "longitud": -72.298932,
+    "name": "Cuerpo de Bomberos de Bulnes",
+    "phone": "4242631380",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Zañartu 169",
+    "city": "Cabrero",
+    "country": "Chile",
+    "latitude": -37.034043,
+    "longitud": -72.402508,
+    "name": "Cuerpo de Bomberos de Cabrero",
+    "phone": "+56432411016",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Condell 350",
+    "city": "Cañete",
+    "country": "Chile",
+    "latitude": -37.800877,
+    "longitud": -73.399093,
+    "name": "Cuerpo de Bomberos de Cañete",
+    "phone": "+56412612787",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Pedro Angulo Novoa 714",
+    "city": "Chiguayante",
+    "country": "Chile",
+    "latitude": -36.912065,
+    "longitud": -73.029504,
+    "name": "Cuerpo de Bomberos de Chiguayante",
+    "phone": "+56412364985",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "El Roble 490",
+    "city": "Chillan",
+    "country": "Chile",
+    "latitude": -36.608509,
+    "longitud": -72.105154,
+    "name": "Cuerpo de Bomberos de Chillan",
+    "phone": "+56422222233",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Independencia 43",
+    "city": "Cobquecura",
+    "country": "Chile",
+    "latitude": -36.13019905911956,
+    "longitud": -72.78731906347613,
+    "name": "Cuerpo de Bomberos de Cobquecura",
+    "phone": "+56421971857",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Manuel Antonio Matta 450",
+    "city": "Coelemu",
+    "country": "Chile",
+    "latitude": -36.489423,
+    "longitud": -72.705082,
+    "name": "Cuerpo de Bomberos de Coelemu",
+    "phone": "+56422511005",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Luis Hermosilla 1432",
+    "city": "Coihueco",
+    "country": "Chile",
+    "latitude": -36.627805,
+    "longitud": -71.831094,
+    "name": "Cuerpo de Bomberos de Coihueco",
+    "phone": "+56422856451",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Alemania 2828",
+    "city": "Hualpen",
+    "country": "Chile",
+    "latitude": -36.783357,
+    "longitud": -73.102304,
+    "name": "Cuerpo de Bomberos de Hualpen",
+    "phone": "+56412424258",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Orompello 136",
+    "city": "Concepción",
+    "country": "Chile",
+    "latitude": -36.82809,
+    "longitud": -73.042212,
+    "name": "Cuerpo de Bomberos de Concepcion",
+    "phone": "+56412225051",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Los Tilos 552",
+    "city": "Contulmo",
+    "country": "Chile",
+    "latitude": -38.01609,
+    "longitud": -73.227716,
+    "name": "Cuerpo de Bomberos de Contulmo",
+    "phone": "+56412618060",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Eleuterio Ramirez 10",
+    "city": "Coronel",
+    "country": "Chile",
+    "latitude": -37.014403,
+    "longitud": -73.155869,
+    "name": "Cuerpo de Bomberos de Coronel",
+    "phone": "+56412774062",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Caupolican 704",
+    "city": "Curanilahue",
+    "country": "Chile",
+    "latitude": -37.477947,
+    "longitud": -73.342874,
+    "name": "Cuerpo de Bomberos de Curanilahue",
+    "phone": "+56412691057",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Manuel Rodríguez 550",
+    "city": "El Carmen",
+    "country": "Chile",
+    "latitude": -36.899501,
+    "longitud": -72.025621,
+    "name": "Cuerpo de Bomberos de El Carmen",
+    "phone": "+56422661087",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Ortiz De Rozas 602",
+    "city": "Florida",
+    "country": "Chile",
+    "latitude": -36.826318,
+    "longitud": -72.661999,
+    "name": "Cuerpo de Bomberos de Florida",
+    "phone": "+56412645132",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Alemania 2828",
+    "city": "Hualpen",
+    "country": "Chile",
+    "latitude": -36.783357,
+    "longitud": -73.102304,
+    "name": "Cuerpo de Bomberos de Hualpen",
+    "phone": "+56412424258",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "La Concepción 451",
+    "city": "Hualqui",
+    "country": "Chile",
+    "latitude": -36.976108,
+    "longitud": -72.939097,
+    "name": "Cuerpo de Bomberos de Hualqui",
+    "phone": "+56412780496",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Balmaceda 10",
+    "city": "Laja",
+    "country": "Chile",
+    "latitude": -37.284107,
+    "longitud": -72.713375,
+    "name": "Cuerpo de Bomberos de Laja",
+    "phone": "+56432461144",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Balmaceda 10",
+    "city": "Laja",
+    "country": "Chile",
+    "latitude": -37.284107,
+    "longitud": -72.713375,
+    "name": "Cuerpo de Bomberos de Laja",
+    "phone": "+56432461144",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Ramón Freire 612",
+    "city": "Lebu",
+    "country": "Chile",
+    "latitude": -37.609776,
+    "longitud": -73.656518,
+    "name": "Cuerpo de Bomberos de Lebu",
+    "phone": "+56412511278",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Luis Sáez Mora 415",
+    "city": "Los Alamos",
+    "country": "Chile",
+    "latitude": -37.627557,
+    "longitud": -73.461029,
+    "name": "Cuerpo de Bomberos de Los Alamos",
+    "phone": "+56412533226",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Ricardo Vicuña 410",
+    "city": "Los Angeles",
+    "country": "Chile",
+    "latitude": -37.47338,
+    "longitud": -72.351367,
+    "name": "Cuerpo de Bomberos de Los Angeles",
+    "phone": "+56432313507",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Galvarino Riveros 080",
+    "city": "Lota",
+    "country": "Chile",
+    "latitude": -37.096159,
+    "longitud": -73.158145,
+    "name": "Cuerpo de Bomberos de Lota",
+    "phone": "+56412876980",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Aníbal Pinto 390",
+    "city": "Mulchen",
+    "country": "Chile",
+    "latitude": -37.72053,
+    "longitud": -72.243935,
+    "name": "Cuerpo de Bomberos de Mulchen",
+    "phone": "+56432561589",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "San Martin 337",
+    "city": "Nacimiento",
+    "country": "Chile",
+    "latitude": -37.501843,
+    "longitud": -72.670424,
+    "name": "Cuerpo de Bomberos de Nacimiento",
+    "phone": "+56432511417",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Luis Cruz Martínez 173",
+    "city": "Negrete",
+    "country": "Chile",
+    "latitude": -37.586366,
+    "longitud": -72.529025,
+    "name": "Cuerpo de Bomberos de Negrete",
+    "phone": "+56432551445",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Héroes De La Concepción 333",
+    "city": "Ninhue",
+    "country": "Chile",
+    "latitude": -36.392959,
+    "longitud": -72.398096,
+    "name": "Cuerpo de Bomberos de Ninhue",
+    "phone": "+56422509277",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Padre Jorge Herrera Sepúlveda 333",
+    "city": "Pemuco",
+    "country": "Chile",
+    "latitude": -36.975107,
+    "longitud": -72.102569,
+    "name": "Cuerpo de Bomberos de Pemuco",
+    "phone": "+56422653021",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Freire 202",
+    "city": "Penco",
+    "country": "Chile",
+    "latitude": -36.738979,
+    "longitud": -72.998821,
+    "name": "Cuerpo de Bomberos de Penco",
+    "phone": "+56412453670",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Ernesto Riquelme S/N",
+    "city": "Pinto",
+    "country": "Chile",
+    "latitude": -36.706529,
+    "longitud": -71.894116,
+    "name": "Cuerpo de Bomberos de Pinto",
+    "phone": "+56421973831",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Pedro De Valdivia 361",
+    "city": "Portezuelo",
+    "country": "Chile",
+    "latitude": -36.52738,
+    "longitud": -72.426357,
+    "name": "Cuerpo de Bomberos de Portezuelo",
+    "phone": "+56422571019",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "José Miguel Carrera S/N",
+    "city": "Quilaco",
+    "country": "Chile",
+    "latitude": -37.683278,
+    "longitud": -72.000016,
+    "name": "Cuerpo de Bomberos de Quilaco",
+    "phone": "+56432581637",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Bascur Esq. Caupolicán S/N",
+    "city": "Quilleco",
+    "country": "Chile",
+    "latitude": -37.475762,
+    "longitud": -71.981089,
+    "name": "Cuerpo de Bomberos de Quilleco",
+    "phone": "+56432611102",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Cayumanqui 344",
+    "city": "Quillón",
+    "country": "Chile",
+    "latitude": -36.744415,
+    "longitud": -72.475278,
+    "name": "Cuerpo de Bomberos de Quillon",
+    "phone": "+56422581033",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Independencia 580",
+    "city": "Quirihue",
+    "country": "Chile",
+    "latitude": -36.283588,
+    "longitud": -72.541083,
+    "name": "Cuerpo de Bomberos de Quirihue",
+    "phone": "+56422531279",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Barros Luco 540",
+    "city": "Portezuelo",
+    "country": "Chile",
+    "latitude": -36.60601,
+    "longitud": -72.534651,
+    "name": "Cuerpo de Bomberos de Ñipas",
+    "phone": "+56422541768",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Vicuña Mackenna 450",
+    "city": "San Carlos",
+    "country": "Chile",
+    "latitude": -36.424108,
+    "longitud": -71.957768,
+    "name": "Cuerpo de Bomberos de San Carlos",
+    "phone": "+56422411620",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Ernesto Zúñiga 143",
+    "city": "Ñiquén",
+    "country": "Chile",
+    "latitude": -36.282023,
+    "longitud": -71.816607,
+    "name": "Cuerpo de Bomberos de Ñiquen",
+    "phone": "+56421973240",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Alcalde Remberto Valdes 509",
+    "city": "San Ignacio",
+    "country": "Chile",
+    "latitude": -36.798458,
+    "longitud": -72.032765,
+    "name": "Cuerpo de Bomberos de San Ignacio",
+    "phone": "+5677455654",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Arturo Prat 095",
+    "city": "San Nicolás",
+    "country": "Chile",
+    "latitude": -36.5037,
+    "longitud": -72.213225,
+    "name": "Cuerpo de Bomberos de San Nicolas",
+    "phone": "+56422271841",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Los Mañíos 1565",
+    "city": "San Pedro de la Paz",
+    "country": "Chile",
+    "latitude": -36.843155,
+    "longitud": -73.104325,
+    "name": "Cuerpo de Bomberos de San Pedro De La Paz",
+    "phone": "+56412287473",
+    "region": "Región Metropolitana"
+  },
+  {
+    "address": "Pedro Montt 362",
+    "city": "San Rosendo",
+    "country": "Chile",
+    "latitude": -37.264871,
+    "longitud": -72.722021,
+    "name": "Cuerpo de Bomberos de San Rosendo",
+    "phone": "+56432462086",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Manuel Rodríguez 031",
+    "city": "Santa Bárbara",
+    "country": "Chile",
+    "latitude": -37.67075,
+    "longitud": -72.020981,
+    "name": "Cuerpo de Bomberos de Santa Barbara",
+    "phone": "+56432581201",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Irarrázabal 74",
+    "city": "Santa Juana",
+    "country": "Chile",
+    "latitude": -37.174541,
+    "longitud": -72.936299,
+    "name": "Cuerpo de Bomberos de Santa Juana",
+    "phone": "+56412779132",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Gabriel Toro 175",
+    "city": "Talcahuano",
+    "country": "Chile",
+    "latitude": -36.716748,
+    "longitud": -73.109394,
+    "name": "Cuerpo de Bomberos de Talcahuano",
+    "phone": "+56412547378",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Guerrero S/N",
+    "city": "Tirúa",
+    "country": "Chile",
+    "latitude": -38.34261,
+    "longitud": -73.493966,
+    "name": "Cuerpo de Bomberos de Tirua",
+    "phone": "+56412614088",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Ignacio Serrano 1095",
+    "city": "Tome",
+    "country": "Chile",
+    "latitude": -36.619324,
+    "longitud": -72.957945,
+    "name": "Cuerpo de Bomberos de Tome",
+    "phone": "+56412654671",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Juan Mackenna S/N",
+    "city": "Treguaco",
+    "country": "Chile",
+    "latitude": -36.430084,
+    "longitud": -72.671038,
+    "name": "Cuerpo de Bomberos de Trehuaco",
+    "phone": "+5697464827",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Independencia 568",
+    "city": "Tucapel",
+    "country": "Chile",
+    "latitude": -37.239396,
+    "longitud": -71.942906,
+    "name": "Cuerpo de Bomberos de Huepil",
+    "phone": "+56432591300",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Bernardo O'Higgins 875",
+    "city": "Yumbel",
+    "country": "Chile",
+    "latitude": -37.09773,
+    "longitud": -72.561407,
+    "name": "Cuerpo de Bomberos de Yumbel",
+    "phone": "+56432431080",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Esmeralda 318",
+    "city": "Yungay",
+    "country": "Chile",
+    "latitude": -37.120255,
+    "longitud": -72.018413,
+    "name": "Cuerpo de Bomberos de Yungay",
+    "phone": "+56422680038",
+    "region": "Región del Bío Bío"
+  },
+  {
+    "address": "Pedro Aguirre Cerda 451",
+    "city": "Angol",
+    "country": "Chile",
+    "latitude": -37.800558,
+    "longitud": -72.710778,
+    "name": "Cuerpo de Bomberos de Angol",
+    "phone": "+56452711619",
+    "region": "IX Región"
+  },
+  {
+    "address": "Avenida Ercilla 300",
+    "city": "Carahue",
+    "country": "Chile",
+    "latitude": -38.711822,
+    "longitud": -73.168057,
+    "name": "Cuerpo de Bomberos de Carahue",
+    "phone": "+56452651756",
+    "region": "IX Región"
+  },
+  {
+    "address": "Alcazar 1261",
+    "city": "Collipulli",
+    "country": "Chile",
+    "latitude": -37.957656,
+    "longitud": -72.43744,
+    "name": "Cuerpo de Bomberos de Collipulli",
+    "phone": "+56442884057",
+    "region": "IX Región"
+  },
+  {
+    "address": "Balmaceda 386",
+    "city": "Cunco",
+    "country": "Chile",
+    "latitude": -38.9331205,
+    "longitud": -72.0315849,
+    "name": "Cuerpo de Bomberos de Cunco",
+    "phone": "+56452573003",
+    "region": "IX Región"
+  },
+  {
+    "address": "Arturo Prat 555",
+    "city": "Curacautin",
+    "country": "Chile",
+    "latitude": -38.438496,
+    "longitud": -71.890899,
+    "name": "Cuerpo de Bomberos de Curacautin",
+    "phone": "+56452882846",
+    "region": "IX Región"
+  },
+  {
+    "address": "Bdo. O'Higgins 487",
+    "city": "Curarrehue",
+    "country": "Chile",
+    "latitude": -39.358961,
+    "longitud": -71.588038,
+    "name": "Cuerpo de Bomberos de Curarrehue",
+    "phone": "+56451971558",
+    "region": "IX Región"
+  },
+  {
+    "address": "Rengo 400",
+    "city": "Ercilla",
+    "country": "Chile",
+    "latitude": -38.063573,
+    "longitud": -72.377536,
+    "name": "Cuerpo de Bomberos de Ercilla",
+    "phone": "+56452817011",
+    "region": "IX Región"
+  },
+  {
+    "address": "Avenida Schleyer 172",
+    "city": "Freire",
+    "country": "Chile",
+    "latitude": -38.951177,
+    "longitud": -72.624757,
+    "name": "Cuerpo de Bomberos de Freire",
+    "phone": "+56452391073",
+    "region": "IX Región"
+  },
+  {
+    "address": "Independencia S/N",
+    "city": "Galvarino",
+    "country": "Chile",
+    "latitude": -38.412322,
+    "longitud": -72.780616,
+    "name": "Cuerpo de Bomberos de Galvarino",
+    "phone": "+56452513035",
+    "region": "IX Región"
+  },
+  {
+    "address": "Jose Miguel Carrera 600",
+    "city": "Gorbea",
+    "country": "Chile",
+    "latitude": -39.155539,
+    "longitud": -72.661032,
+    "name": "Cuerpo de Bomberos de Quitratue",
+    "phone": "+56451971862",
+    "region": "IX Región"
+  },
+  {
+    "address": "18 De Septiembre 351",
+    "city": "Lastarria",
+    "country": "Chile",
+    "latitude": -39.2362,
+    "longitud": -72.675291,
+    "name": "Cuerpo de Bomberos de Lastarria",
+    "phone": "+56451971674",
+    "region": "IX Región"
+  },
+  {
+    "address": "Ramón Freire 699",
+    "city": "Gorbea",
+    "country": "Chile",
+    "latitude": -39.103253,
+    "longitud": -72.674993,
+    "name": "Cuerpo de Bomberos de Gorbea",
+    "phone": "+56452491021",
+    "region": "IX Región"
+  },
+  {
+    "address": "Bilbao 245",
+    "city": "Lautaro",
+    "country": "Chile",
+    "latitude": -38.53365,
+    "longitud": -72.435998,
+    "name": "Cuerpo de Bomberos de Lautaro",
+    "phone": "+56452531905",
+    "region": "IX Región"
+  },
+  {
+    "address": "Arturo Pratt 508",
+    "city": "Loncoche",
+    "country": "Chile",
+    "latitude": -39.371147,
+    "longitud": -72.62939,
+    "name": "Cuerpo de Bomberos de Loncoche",
+    "phone": "+56452471085",
+    "region": "IX Región"
+  },
+  {
+    "address": "O'Higgins 1195",
+    "city": "Lonquimay",
+    "country": "Chile",
+    "latitude": -38.454532,
+    "longitud": -71.37089,
+    "name": "Cuerpo de Bomberos de Lonquimay",
+    "phone": "+56452891063",
+    "region": "IX Región"
+  },
+  {
+    "address": "Independencia S/N",
+    "city": "Los Sauces",
+    "country": "Chile",
+    "latitude": -37.982491,
+    "longitud": -72.829807,
+    "name": "Cuerpo de Bomberos de Los Sauces",
+    "phone": "+56452783030",
+    "region": "IX Región"
+  },
+  {
+    "address": "Balmaceda 453",
+    "city": "Lumaco",
+    "country": "Chile",
+    "latitude": -38.166589,
+    "longitud": -72.904559,
+    "name": "Cuerpo de Bomberos de Lumaco",
+    "phone": "+56452815093",
+    "region": "IX Región"
+  },
+  {
+    "address": "Cucchi Boasso 364",
+    "city": "Capitan Pastene",
+    "country": "Chile",
+    "latitude": -38.195068,
+    "longitud": -72.991285,
+    "name": "Cuerpo de Bomberos de Capitan Pastene",
+    "phone": "+56452753081",
+    "region": "IX Región"
+  },
+  {
+    "address": "Aurelio Letelier 400",
+    "city": "Melipeuco",
+    "country": "Chile",
+    "latitude": -38.85483,
+    "longitud": -71.693463,
+    "name": "Cuerpo de Bomberos de Melipeuco",
+    "phone": "+56452581013",
+    "region": "IX Región"
+  },
+  {
+    "address": "Vicuña Mackenna 430",
+    "city": "Nueva Imperial",
+    "country": "Chile",
+    "latitude": -38.744605,
+    "longitud": -72.952162,
+    "name": "Cuerpo de Bomberos de Nueva Imperial",
+    "phone": "+56452612659",
+    "region": "IX Región"
+  },
+  {
+    "address": "Balmaceda 510",
+    "city": "Cholchol",
+    "country": "Chile",
+    "latitude": -38.603011,
+    "longitud": -72.845311,
+    "name": "Cuerpo de Bomberos de Chol-Chol",
+    "phone": "+56452528764",
+    "region": "IX Región"
+  },
+  {
+    "address": "Orella 541",
+    "city": "Perquenco",
+    "country": "Chile",
+    "latitude": -38.422125,
+    "longitud": -72.379723,
+    "name": "Cuerpo de Bomberos de Perquenco",
+    "phone": "+56452537026",
+    "region": "IX Región"
+  },
+  {
+    "address": "Andrés Bello 841",
+    "city": "Pitrufquén",
+    "country": "Chile",
+    "latitude": -38.987308,
+    "longitud": -72.63887,
+    "name": "Cuerpo de Bomberos de Pitrufquen",
+    "phone": "+56452391040",
+    "region": "IX Región"
+  },
+  {
+    "address": "Bernardo Ohiggins  461",
+    "city": "Pucon",
+    "country": "Chile",
+    "latitude": -39.276204,
+    "longitud": -71.973667,
+    "name": "Cuerpo de Bomberos de Pucon",
+    "phone": "+56452441969",
+    "region": "IX Región"
+  },
+  {
+    "address": "Patricio Lynch 252",
+    "city": "Saavedra",
+    "country": "Chile",
+    "latitude": -38.791184,
+    "longitud": -73.397025,
+    "name": "Cuerpo de Bomberos de Puerto Saavedra",
+    "phone": "+56452634061",
+    "region": "IX Región"
+  },
+  {
+    "address": "Tromen 1099",
+    "city": "Purén",
+    "country": "Chile",
+    "latitude": -38.032763,
+    "longitud": -73.074111,
+    "name": "Cuerpo de Bomberos de Puren",
+    "phone": "+56452793012",
+    "region": "IX Región"
+  },
+  {
+    "address": "Caupolicán 100",
+    "city": "Renaico",
+    "country": "Chile",
+    "latitude": -37.670464,
+    "longitud": -72.583716,
+    "name": "Cuerpo de Bomberos de Renaico",
+    "phone": "+56452774007",
+    "region": "IX Región"
+  },
+  {
+    "address": "Prieto Norte 430",
+    "city": "Temuco",
+    "country": "Chile",
+    "latitude": -38.736328,
+    "longitud": -72.601356,
+    "name": "Cuerpo de Bomberos de Temuco",
+    "phone": "+56452210116",
+    "region": "IX Región"
+  },
+  {
+    "address": "Balmaceda 300",
+    "city": "Teodoro Schmidt",
+    "country": "Chile",
+    "latitude": -38.997847,
+    "longitud": -73.090899,
+    "name": "Cuerpo de Bomberos de Teodoro Schmidt",
+    "phone": "+56452664016",
+    "region": "IX Región"
+  },
+  {
+    "address": "Bernardo O´Higgins 502",
+    "city": "Nueva Toltén",
+    "country": "Chile",
+    "latitude": -39.179811,
+    "longitud": -73.164346,
+    "name": "Cuerpo de Bomberos de Tolten",
+    "phone": "+56452671062",
+    "region": "IX Región"
+  },
+  {
+    "address": "Coronel Urrutia 330",
+    "city": "Traiguén",
+    "country": "Chile",
+    "latitude": -38.25155,
+    "longitud": -72.666366,
+    "name": "Cuerpo de Bomberos de Traiguen",
+    "phone": "+56452861127",
+    "region": "IX Región"
+  },
+  {
+    "address": "Ramírez 475",
+    "city": "Victoria",
+    "country": "Chile",
+    "latitude": -38.234464,
+    "longitud": -72.331581,
+    "name": "Cuerpo de Bomberos de Victoria",
+    "phone": "+56452843966",
+    "region": "IX Región"
+  },
+  {
+    "address": "A. Pratt 295",
+    "city": "Vilcún",
+    "country": "Chile",
+    "latitude": -38.670425,
+    "longitud": -72.222609,
+    "name": "Cuerpo de Bomberos de Vilcun",
+    "phone": "+56452562103",
+    "region": "IX Región"
+  },
+  {
+    "address": "Constitución 026",
+    "city": "Vilcún",
+    "country": "Chile",
+    "latitude": -38.685699,
+    "longitud": -72.003012,
+    "name": "Cuerpo de Bomberos de Cherquenco",
+    "phone": "+56452566017",
+    "region": "IX Región"
+  },
+  {
+    "address": "Valentín Letelier 630",
+    "city": "Villarrica",
+    "country": "Chile",
+    "latitude": -39.280857,
+    "longitud": -72.226664,
+    "name": "Cuerpo de Bomberos de Villarrica",
+    "phone": "045411104",
+    "region": "IX Región"
+  },
+  {
+    "address": "Gabriela Mistral 376",
+    "city": "Licanray",
+    "country": "Chile",
+    "latitude": -39.484907,
+    "longitud": -72.158418,
+    "name": "Cuerpo de Bomberos de Licanray",
+    "phone": "+56452431274",
+    "region": "IX Región"
+  },
+  {
+    "address": "Miraflores 95",
+    "city": "Corral",
+    "country": "Chile",
+    "latitude": -39.8886495,
+    "longitud": -73.432519,
+    "name": "Cuerpo de Bomberos de Corral",
+    "phone": "+56632471370",
+    "region": "Región de los Ríos"
+  },
+  {
+    "address": "Alessandri 05",
+    "city": "Futrono",
+    "country": "Chile",
+    "latitude": -40.131345,
+    "longitud": -72.389859,
+    "name": "Cuerpo de Bomberos de Futrono",
+    "phone": "6322481101",
+    "region": "Región de los Ríos"
+  },
+  {
+    "address": "Esmeralda 825",
+    "city": "La Unión",
+    "country": "Chile",
+    "latitude": -40.294452,
+    "longitud": -73.080394,
+    "name": "Cuerpo de Bomberos de La Union",
+    "phone": "+56642323097",
+    "region": "Región de los Ríos"
+  },
+  {
+    "address": "Antofagasta 143",
+    "city": "Lago Ranco",
+    "country": "Chile",
+    "latitude": -40.323145,
+    "longitud": -72.481322,
+    "name": "Cuerpo de Bomberos de Lago Ranco",
+    "phone": "+56632491222",
+    "region": "Región de los Ríos"
+  },
+  {
+    "address": "Covadonga 37",
+    "city": "Lanco",
+    "country": "Chile",
+    "latitude": -39.541207,
+    "longitud": -72.508544,
+    "name": "Cuerpo de Bomberos de Malalhue",
+    "phone": "063316232",
+    "region": "Región de los Ríos"
+  },
+  {
+    "address": "Dieciocho 170",
+    "city": "Lanco",
+    "country": "Chile",
+    "latitude": -39.451768,
+    "longitud": -72.775829,
+    "name": "Cuerpo de Bomberos de Lanco",
+    "phone": "+56632442555",
+    "region": "Región de los Ríos"
+  },
+  {
+    "address": "Quinchilca 17",
+    "city": "Los Lagos",
+    "country": "Chile",
+    "latitude": -39.863469,
+    "longitud": -72.812764,
+    "name": "Cuerpo de Bomberos de Los Lagos",
+    "phone": "+56632461222",
+    "region": "Región de los Ríos"
+  },
+  {
+    "address": "Bernardo O'Higgins S/N",
+    "city": "Los Lagos",
+    "country": "Chile",
+    "latitude": -39.806903,
+    "longitud": -72.958742,
+    "name": "Cuerpo de Bomberos de Antilhue",
+    "phone": "+5662864824",
+    "region": "Región de los Ríos"
+  },
+  {
+    "address": "Bernardo O'Higgins 260",
+    "city": "Máfil",
+    "country": "Chile",
+    "latitude": -39.666985,
+    "longitud": -72.952865,
+    "name": "Cuerpo de Bomberos de Mafil",
+    "phone": "+56632411222",
+    "region": "Región de los Ríos"
+  },
+  {
+    "address": "Carlos Acharan Arce S/N",
+    "city": "Mariquina",
+    "country": "Chile",
+    "latitude": -39.540941,
+    "longitud": -72.963398,
+    "name": "Cuerpo de Bomberos de San Jose De La Mariquina",
+    "phone": "+56632451222",
+    "region": "Región de los Ríos"
+  },
+  {
+    "address": "Carlos Acharán S/N",
+    "city": "Mariquina",
+    "country": "Chile",
+    "latitude": -39.444261,
+    "longitud": -73.211464,
+    "name": "Cuerpo de Bomberos de Mehuin",
+    "phone": "063456232",
+    "region": "Región de los Ríos"
+  },
+  {
+    "address": "Arauco 349",
+    "city": "Paillaco",
+    "country": "Chile",
+    "latitude": -39.990116,
+    "longitud": -72.834887,
+    "name": "Cuerpo de Bomberos de Reumen",
+    "phone": "+56632427232",
+    "region": "Región de los Ríos"
+  },
+  {
+    "address": "Independencia 259",
+    "city": "Paillaco",
+    "country": "Chile",
+    "latitude": -40.150223,
+    "longitud": -72.898594,
+    "name": "Cuerpo de Bomberos de Pichirropulli",
+    "phone": "+56632426232",
+    "region": "Región de los Ríos"
+  },
+  {
+    "address": "Carlos Acharán Arce 872",
+    "city": "Paillaco",
+    "country": "Chile",
+    "latitude": -40.074505,
+    "longitud": -72.871089,
+    "name": "Cuerpo de Bomberos de Paillaco",
+    "phone": "+56632421798",
+    "region": "Región de los Ríos"
+  },
+  {
+    "address": "Calle Bernardo O'Higgins 764",
+    "city": "Panguipulli",
+    "country": "Chile",
+    "latitude": -39.641572,
+    "longitud": -72.331391,
+    "name": "Cuerpo de Bomberos de Panguipulli",
+    "phone": "+56632311222",
+    "region": "Región de los Ríos"
+  },
+  {
+    "address": "Padre Bernabé S/N",
+    "city": "Panguipulli",
+    "country": "Chile",
+    "latitude": -39.836261,
+    "longitud": -72.082912,
+    "name": "Cuerpo de Bomberos de Choshuenco",
+    "phone": "+56632318232",
+    "region": "Región de los Ríos"
+  },
+  {
+    "address": "Independencia 1145 2 Piso B",
+    "city": "Rio Bueno",
+    "country": "Chile",
+    "latitude": -40.334188,
+    "longitud": -72.955273,
+    "name": "Cuerpo de Bomberos de Rio Bueno",
+    "phone": "+56662341222",
+    "region": "Región de los Ríos"
+  },
+  {
+    "address": "Teniente Orella S/N",
+    "city": "Río Bueno",
+    "country": "Chile",
+    "latitude": -40.420566,
+    "longitud": -72.78838,
+    "name": "Cuerpo de Bomberos de Crucero",
+    "phone": "+56631975850",
+    "region": "Región de los Ríos"
+  },
+  {
+    "address": "Camilo Henríquez 307",
+    "city": "Valdivia",
+    "country": "Chile",
+    "latitude": -39.812235,
+    "longitud": -73.245107,
+    "name": "Cuerpo de Bomberos de Valdivia",
+    "phone": "+56632212480",
+    "region": "Región de los Ríos"
+  },
+  {
+    "address": "Cuartel De Bomberos S/N",
+    "city": "Valdivia",
+    "country": "Chile",
+    "latitude": -39.7921,
+    "longitud": -73.117319,
+    "name": "Cuerpo de Bomberos de Huellelhue",
+    "phone": "0631271022",
+    "region": "Región de los Ríos"
+  },
+  {
+    "address": "Bellavista 145",
+    "city": "Ancud",
+    "country": "Chile",
+    "latitude": -41.82944,
+    "longitud": -73.52526,
+    "name": "Cuerpo de Bomberos de Chacao",
+    "phone": "+56652696323",
+    "region": "X Región"
+  },
+  {
+    "address": "Eleuterio Ramírez 210",
+    "city": "Ancud",
+    "country": "Chile",
+    "latitude": -41.868581,
+    "longitud": -73.828333,
+    "name": "Cuerpo de Bomberos de Ancud",
+    "phone": "065622326",
+    "region": "X Región"
+  },
+  {
+    "address": "Ernesto Riquelme 116",
+    "city": "Calbuco",
+    "country": "Chile",
+    "latitude": -41.770772,
+    "longitud": -73.127625,
+    "name": "Cuerpo de Bomberos de Calbuco",
+    "phone": "+56652461233",
+    "region": "X Región"
+  },
+  {
+    "address": "O'Higins 308",
+    "city": "Castro",
+    "country": "Chile",
+    "latitude": -42.481315,
+    "longitud": -73.765434,
+    "name": "Cuerpo de Bomberos de Castro",
+    "phone": "+56652633008",
+    "region": "X Región"
+  },
+  {
+    "address": "Diego Portales 517",
+    "city": "Chaiten",
+    "country": "Chile",
+    "latitude": -42.916341,
+    "longitud": -72.710434,
+    "name": "Cuerpo de Bomberos de Chaiten",
+    "phone": "+56652731266",
+    "region": "X Región"
+  },
+  {
+    "address": "Lib. Bernardo O'Higgins S/N",
+    "city": "Chonchi",
+    "country": "Chile",
+    "latitude": -42.624322,
+    "longitud": -73.771,
+    "name": "Cuerpo de Bomberos de Chonchi",
+    "phone": "+56652671331",
+    "region": "X Región"
+  },
+  {
+    "address": "Moises Morales S/N",
+    "city": "Cochamo",
+    "country": "Chile",
+    "latitude": -41.492895,
+    "longitud": -72.307676,
+    "name": "Cuerpo de Bomberos de Cochamo",
+    "phone": "+56652216216",
+    "region": "X Región"
+  },
+  {
+    "address": "21 De Mayo 06",
+    "city": "Curaco de Vélez",
+    "country": "Chile",
+    "latitude": -42.440135,
+    "longitud": -73.602513,
+    "name": "Cuerpo de Bomberos de Curaco De Velez",
+    "phone": "+56652667383",
+    "region": "X Región"
+  },
+  {
+    "address": "Mocopulli 25",
+    "city": "Dalcahue",
+    "country": "Chile",
+    "latitude": -42.378842,
+    "longitud": -73.652755,
+    "name": "Cuerpo de Bomberos de Dalcahue",
+    "phone": "+56652383269",
+    "region": "X Región"
+  },
+  {
+    "address": "San Carlos 402",
+    "city": "Fresia",
+    "country": "Chile",
+    "latitude": -41.152638,
+    "longitud": -73.421053,
+    "name": "Cuerpo de Bomberos de Fresia",
+    "phone": "+56652441222",
+    "region": "X Región"
+  },
+  {
+    "address": "Philippi 1065",
+    "city": "Frutillar",
+    "country": "Chile",
+    "latitude": -41.139692,
+    "longitud": -73.026278,
+    "name": "Cuerpo de Bomberos de Frutillar",
+    "phone": "+56652421411",
+    "region": "X Región"
+  },
+  {
+    "address": "Gabriela Mistral 212",
+    "city": "Futaleufú",
+    "country": "Chile",
+    "latitude": -43.183232,
+    "longitud": -71.869988,
+    "name": "Cuerpo de Bomberos de Futaleufu",
+    "phone": "+56652721232",
+    "region": "X Región"
+  },
+  {
+    "address": "Los Colonos S/N",
+    "city": "Hualaihué",
+    "country": "Chile",
+    "latitude": -41.966933,
+    "longitud": -72.469943,
+    "name": "Cuerpo de Bomberos de Hualaihue",
+    "phone": "+5679898148",
+    "region": "X Región"
+  },
+  {
+    "address": "Baquedano 1001",
+    "city": "Llanquihue",
+    "country": "Chile",
+    "latitude": -41.253148,
+    "longitud": -73.00739,
+    "name": "Cuerpo de Bomberos de Llanquihue",
+    "phone": "+56652242777",
+    "region": "X Región"
+  },
+  {
+    "address": "José M. Balmaceda 301",
+    "city": "Los Muermos",
+    "country": "Chile",
+    "latitude": -41.394306,
+    "longitud": -73.461048,
+    "name": "Cuerpo de Bomberos de Los Muermos",
+    "phone": "+56652211600",
+    "region": "X Región"
+  },
+  {
+    "address": "Almeyda S/N",
+    "city": "Maullín",
+    "country": "Chile",
+    "latitude": -41.617493,
+    "longitud": -73.596028,
+    "name": "Cuerpo de Bomberos de Maullin",
+    "phone": "+56652451299",
+    "region": "X Región"
+  },
+  {
+    "address": "Manuel Antonio Matta 790",
+    "city": "Osorno",
+    "country": "Chile",
+    "latitude": -40.575776,
+    "longitud": -73.134443,
+    "name": "Cuerpo de Bomberos de Osorno",
+    "phone": "+56642232222",
+    "region": "X Región"
+  },
+  {
+    "address": "Hurtado De Méndoza S/N",
+    "city": "Palena",
+    "country": "Chile",
+    "latitude": -43.61791,
+    "longitud": -71.804702,
+    "name": "Cuerpo de Bomberos de Palena",
+    "phone": "+56652741299",
+    "region": "X Región"
+  },
+  {
+    "address": "Antonio Varas Y San Felipe S/N",
+    "city": "Puerto Montt",
+    "country": "Chile",
+    "latitude": -41.471557,
+    "longitud": -72.937218,
+    "name": "Cuerpo de Bomberos de Puerto Montt",
+    "phone": "+56652252818",
+    "region": "X Región"
+  },
+  {
+    "address": "Población Rio-Mar S/N",
+    "city": "Puerto Montt",
+    "country": "Chile",
+    "latitude": -41.471602,
+    "longitud": -72.841762,
+    "name": "Cuerpo de Bomberos de Carretera Austral",
+    "phone": "+56652524270",
+    "region": "X Región"
+  },
+  {
+    "address": "Pedro Montt 507",
+    "city": "Puerto Octay",
+    "country": "Chile",
+    "latitude": -40.974351,
+    "longitud": -72.883401,
+    "name": "Cuerpo de Bomberos de Puerto Octay",
+    "phone": "+56642391222",
+    "region": "X Región"
+  },
+  {
+    "address": "Vicente Perez Rosales 159",
+    "city": "Puerto Octay",
+    "country": "Chile",
+    "latitude": -41.081071,
+    "longitud": -72.638827,
+    "name": "Cuerpo de Bomberos de Las Cascadas",
+    "phone": "+56642396232",
+    "region": "X Región"
+  },
+  {
+    "address": "San Francisco 601",
+    "city": "Puerto Varas",
+    "country": "Chile",
+    "latitude": -41.318488,
+    "longitud": -72.984868,
+    "name": "Cuerpo de Bomberos de Puerto Varas",
+    "phone": "+56652233522",
+    "region": "X Región"
+  },
+  {
+    "address": "Manuel Rodríguez S/N",
+    "city": "Puqueldón",
+    "country": "Chile",
+    "latitude": -42.599765,
+    "longitud": -73.677236,
+    "name": "Cuerpo de Bomberos de Puqueldon",
+    "phone": "+56652677231",
+    "region": "X Región"
+  },
+  {
+    "address": "Las Heras 325",
+    "city": "Purranque",
+    "country": "Chile",
+    "latitude": -40.914339,
+    "longitud": -73.158526,
+    "name": "Cuerpo de Bomberos de Purranque",
+    "phone": "+56642351838",
+    "region": "X Región"
+  },
+  {
+    "address": "Vicuña Mackenna S/N",
+    "city": "Purranque",
+    "country": "Chile",
+    "latitude": -40.952156,
+    "longitud": -73.161378,
+    "name": "Cuerpo de Bomberos de Corte Alto",
+    "phone": "+56642351243",
+    "region": "X Región"
+  },
+  {
+    "address": "Lord Cochrane 178",
+    "city": "Puyehue",
+    "country": "Chile",
+    "latitude": -40.683633,
+    "longitud": -72.596132,
+    "name": "Cuerpo de Bomberos de Entre Lagos",
+    "phone": "+56642371222",
+    "region": "X Región"
+  },
+  {
+    "address": "Pedro Aguirre Cerda 312",
+    "city": "Queilén",
+    "country": "Chile",
+    "latitude": -42.890295,
+    "longitud": -73.472443,
+    "name": "Cuerpo de Bomberos de Queilen",
+    "phone": "+56652611232",
+    "region": "X Región"
+  },
+  {
+    "address": "Ramón Freire 217",
+    "city": "Quellón",
+    "country": "Chile",
+    "latitude": -43.119701,
+    "longitud": -73.616646,
+    "name": "Cuerpo de Bomberos de Quellon",
+    "phone": "+56652681222",
+    "region": "X Región"
+  },
+  {
+    "address": "Pedro Montt 240",
+    "city": "Quemchi",
+    "country": "Chile",
+    "latitude": -42.144229,
+    "longitud": -73.474605,
+    "name": "Cuerpo de Bomberos de Quemchi",
+    "phone": "+56652691232",
+    "region": "X Región"
+  },
+  {
+    "address": "García Sierpes 05",
+    "city": "Quinchao",
+    "country": "Chile",
+    "latitude": -42.472428,
+    "longitud": -73.495501,
+    "name": "Cuerpo de Bomberos de Achao",
+    "phone": "+56652661411",
+    "region": "X Región"
+  },
+  {
+    "address": "Pedro Aguire Cerda S/N",
+    "city": "Río Negro",
+    "country": "Chile",
+    "latitude": -40.793885,
+    "longitud": -73.218053,
+    "name": "Cuerpo de Bomberos de Rio Negro",
+    "phone": "+56642361222",
+    "region": "X Región"
+  },
+  {
+    "address": "Pedro De Valdivia 350",
+    "city": "Riachuelo",
+    "country": "Chile",
+    "latitude": -40.821784,
+    "longitud": -73.338466,
+    "name": "Cuerpo de Bomberos de Riachuelo",
+    "phone": "+56641975155",
+    "region": "X Región"
+  },
+  {
+    "address": "Casilla 306",
+    "city": "San Juan de la Costa",
+    "country": "Chile",
+    "latitude": -40.488004,
+    "longitud": -73.405869,
+    "name": "Cuerpo de Bomberos de San Juan De La Costa",
+    "phone": "+56641975414",
+    "region": "X Región"
+  },
+  {
+    "address": "Cruz 516",
+    "city": "San Pablo",
+    "country": "Chile",
+    "latitude": -40.413425,
+    "longitud": -73.012275,
+    "name": "Cuerpo de Bomberos de San Pablo",
+    "phone": "+56642381222",
+    "region": "X Región"
+  },
+  {
+    "address": "Teniente Merino 600",
+    "city": "Puerto Aysen",
+    "country": "Chile",
+    "latitude": -45.406774,
+    "longitud": -72.696254,
+    "name": "Cuerpo de Bomberos de Puerto Aysen",
+    "phone": "+56672573186",
+    "region": "XI Región"
+  },
+  {
+    "address": "Bernardo O'Higgins 705",
+    "city": "Chile Chico",
+    "country": "Chile",
+    "latitude": -46.539658,
+    "longitud": -71.727345,
+    "name": "Cuerpo de Bomberos de Chile Chico",
+    "phone": "+56672411454",
+    "region": "XI Región"
+  },
+  {
+    "address": "Gabriela Mistral 507",
+    "city": "Puerto Cisnes",
+    "country": "Chile",
+    "latitude": -44.728524,
+    "longitud": -72.681935,
+    "name": "Cuerpo de Bomberos de Puerto Cisnes",
+    "phone": "+56672346595",
+    "region": "XI Región"
+  },
+  {
+    "address": "Bernardo O'Higgins 360",
+    "city": "Cochrane",
+    "country": "Chile",
+    "latitude": -47.255208,
+    "longitud": -72.579337,
+    "name": "Cuerpo de Bomberos de Cochrane",
+    "phone": "+56672522111",
+    "region": "XI Región"
+  },
+  {
+    "address": "General Parra 365",
+    "city": "Coyhaique",
+    "country": "Chile",
+    "latitude": -45.569119,
+    "longitud": -72.070147,
+    "name": "Cuerpo de Bomberos de Coyhaique",
+    "phone": "+56672235413",
+    "region": "XI Región"
+  },
+  {
+    "address": "Aeropuerto S/N",
+    "city": "Guaitecas",
+    "country": "Chile",
+    "latitude": -43.8972786,
+    "longitud": -73.7462041,
+    "name": "Cuerpo de Bomberos de Melinka",
+    "phone": "",
+    "region": "XI Región"
+  },
+  {
+    "address": "Bernardo Phillipi 080",
+    "city": "Porvenir",
+    "country": "Chile",
+    "latitude": -53.295132,
+    "longitud": -70.368746,
+    "name": "Cuerpo de Bomberos de Porvenir",
+    "phone": "+56612580059",
+    "region": "Región de Magallanes y de la Antártica Chilena"
+  },
+  {
+    "address": "Simón Bolivar 1455",
+    "city": "Puerto Natales",
+    "country": "Chile",
+    "latitude": -51.730774,
+    "longitud": -72.483519,
+    "name": "Cuerpo de Bomberos de Puerto Natales",
+    "phone": "+56612410969",
+    "region": "Región de Magallanes y de la Antártica Chilena"
+  },
+  {
+    "address": "O'Higgins 220",
+    "city": "Puerto Williams",
+    "country": "Chile",
+    "latitude": -54.934552,
+    "longitud": -67.603506,
+    "name": "Cuerpo de Bomberos de Puerto Williams",
+    "phone": "+56612621172",
+    "region": "Región de Magallanes y de la Antártica Chilena"
+  },
+  {
+    "address": "Chiloé 824",
+    "city": "Punta Arenas",
+    "country": "Chile",
+    "latitude": -53.162513,
+    "longitud": -70.910189,
+    "name": "Cuerpo de Bomberos de Punta Arenas",
+    "phone": "+56612242370",
+    "region": "Región de Magallanes y de la Antártica Chilena"
+  }
+]
