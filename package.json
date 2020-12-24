@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "browserify": "14.1.0",
-    "browserify-hmr": "0.3.5",
+    "browserify-hmr": "0.4.0",
     "clean-css": "4.1.11",
     "cross-env": "^4.0.0",
     "html-minifier": "^3.4.1",
